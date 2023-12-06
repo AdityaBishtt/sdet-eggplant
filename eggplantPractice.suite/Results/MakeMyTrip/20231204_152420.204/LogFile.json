@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"message": "Running MakeMyTrip.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 15:24:20.227 +0530"
+			},
+		{
+				"handlerName": "on_makemytrip",
+				"timestamp": "2023-12-04 15:24:20.383 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_makemytrip",
+				"timestamp": "2023-12-04 15:24:21.100 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"identifier": "typetext",
+				"handlerLine": 3
+			},
+		{
+				"message": "(Duration:\"0.92\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-04 15:24:20 +0530\", Successes:\"1\", TestCase:\"MakeMyTrip.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 15:24:21.157 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 MakeMyTrip.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-04 15:24:21.291 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 15:24:20.234 +0530"
+}

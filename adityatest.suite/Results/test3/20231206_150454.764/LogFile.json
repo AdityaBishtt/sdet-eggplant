@@ -1,0 +1,39 @@
+{
+	"entries": [
+		{
+				"message": "Running test3.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 15:04:54.788 +0530"
+			},
+		{
+				"handlerName": "on_test3",
+				"timestamp": "2023-12-06 15:04:55.176 +0530",
+				"scriptName": "test3.script",
+				"message": "at (35, 129)",
+				"image": "chrome_test3",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test3",
+				"timestamp": "2023-12-06 15:05:18.839 +0530",
+				"scriptName": "test3.script",
+				"message": "No Image Found On Screen: \"search_test3\"",
+				"image": "search_test3",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"24.194\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 15:04:54 +0530\", Successes:\"0\", TestCase:\"test3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 15:05:18.990 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"search_test3\" -- Execution Time 0:00:24 test3.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-06 15:05:19.304 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 15:04:54.794 +0530"
+}

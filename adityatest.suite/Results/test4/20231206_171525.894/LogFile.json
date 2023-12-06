@@ -1,0 +1,56 @@
+{
+	"entries": [
+		{
+				"message": "Running test4.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 17:15:25.922 +0530"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:15:26.277 +0530",
+				"scriptName": "test4.script",
+				"message": "at (34, 129)",
+				"image": "c",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:15:34.728 +0530",
+				"scriptName": "test4.script",
+				"message": "at (253, 84)",
+				"image": "se",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:15:35.735 +0530",
+				"message": "oracle.com[return]{WaitFor:20}",
+				"scriptName": "test4.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:15:35.758 +0530",
+				"scriptName": "test4.script",
+				"message": "Could Not Open Image: ViewAccountstest4.3",
+				"image": "ViewAccountstest4.3",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"9.855\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 17:15:25 +0530\", Successes:\"0\", TestCase:\"test4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 17:15:35.791 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "File Not Found: click Error - Could Not Open Image: ViewAccountstest4.3 -- Execution Time 0:00:09 test4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-06 17:15:36.290 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 17:15:25.933 +0530"
+}

@@ -1,0 +1,15 @@
+﻿2023-12-04 18:57:05.769 +0530	START		Running TC1.script
+2023-12-04 18:57:06.036 +0530	typetext		[windowsKey]r	2	on_openbrowser	MakeMyTrip.script
+2023-12-04 18:57:06.769 +0530	typetext		[controlKey]a	3	on_openbrowser	MakeMyTrip.script
+2023-12-04 18:57:07.493 +0530	typetext		[backspace]	4	on_openbrowser	MakeMyTrip.script
+2023-12-04 18:57:08.279 +0530	typetext		Chrome	5	on_openbrowser	MakeMyTrip.script
+2023-12-04 18:57:09.118 +0530	click	OkayImage	at (170, 686)	6	on_openbrowser	MakeMyTrip.script
+2023-12-04 18:57:14.364 +0530	typetext		www.makemytrip.com	8	on_openbrowser	MakeMyTrip.script
+2023-12-04 18:57:15.083 +0530	typetext		[return]	9	on_openbrowser	MakeMyTrip.script
+2023-12-04 18:57:24.012 +0530	waitfor	loginBox	found at (707, 285)	2	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 18:57:24.517 +0530	click	loginBox	at (707, 285)	3	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 18:57:25.345 +0530	typetext		8800431659	4	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 18:57:31.675 +0530	click	(TEXT:"Continue")	at (705, 346)	5	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 18:57:39.802 +0530	click	(TEXT:"Back")	at (304, 178)	2	on_backtohomepage	MakeMyTrip.script
+2023-12-04 18:57:39.864 +0530	EndTestCase		(Duration:"34.08", Errors:"0", Exceptions:"0", StartTime:"2023-12-04 18:57:05 +0530", Successes:"1", TestCase:"TC1.script", Warnings:"0")
+2023-12-04 18:57:39.981 +0530	SUCCESS		Execution Time 0:00:34 TC1.script

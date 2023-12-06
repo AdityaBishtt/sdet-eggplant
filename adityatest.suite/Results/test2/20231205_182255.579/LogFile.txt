@@ -1,0 +1,4 @@
+﻿2023-12-05 18:22:55.605 +0530	START		Running test2.script
+2023-12-05 18:23:18.247 +0530	Exception	Micro_edg	No Image Found On Screen: "Micro_edg"	1	on_test2	test2.script
+2023-12-05 18:23:18.337 +0530	EndTestCase		(Duration:"22.718", Errors:"1", Exceptions:"1", StartTime:"2023-12-05 18:22:55 +0530", Successes:"0", TestCase:"test2.script", Warnings:"0")
+2023-12-05 18:23:18.571 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "Micro_edg" -- Execution Time 0:00:22 test2.script

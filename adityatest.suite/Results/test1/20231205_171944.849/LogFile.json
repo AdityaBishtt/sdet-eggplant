@@ -1,0 +1,30 @@
+{
+	"entries": [
+		{
+				"message": "Running test1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-05 17:19:44.863 +0530"
+			},
+		{
+				"handlerName": "on_test1",
+				"timestamp": "2023-12-05 17:20:07.511 +0530",
+				"scriptName": "test1.script",
+				"message": "No Image Found On Screen: \"image0002\"",
+				"image": "image0002",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"22.834\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-05 17:19:44 +0530\", Successes:\"0\", TestCase:\"test1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-05 17:20:07.717 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: doubleclick Error - No Image Found On Screen: \"image0002\" -- Execution Time 0:00:22 test1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-05 17:20:07.943 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-05 17:19:44.876 +0530"
+}

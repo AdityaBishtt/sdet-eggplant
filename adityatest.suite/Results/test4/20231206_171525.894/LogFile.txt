@@ -1,0 +1,7 @@
+﻿2023-12-06 17:15:25.922 +0530	START		Running test4.script
+2023-12-06 17:15:26.277 +0530	doubleclick	c	at (34, 129)	1	on_test4	test4.script
+2023-12-06 17:15:34.728 +0530	click	se	at (253, 84)	2	on_test4	test4.script
+2023-12-06 17:15:35.735 +0530	typetext		oracle.com[return]{WaitFor:20}	3	on_test4	test4.script
+2023-12-06 17:15:35.758 +0530	Exception	ViewAccountstest4.3	Could Not Open Image: ViewAccountstest4.3	4	on_test4	test4.script
+2023-12-06 17:15:35.791 +0530	EndTestCase		(Duration:"9.855", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 17:15:25 +0530", Successes:"0", TestCase:"test4.script", Warnings:"0")
+2023-12-06 17:15:36.290 +0530	FAILURE	Screen_Error.png	File Not Found: click Error - Could Not Open Image: ViewAccountstest4.3 -- Execution Time 0:00:09 test4.script

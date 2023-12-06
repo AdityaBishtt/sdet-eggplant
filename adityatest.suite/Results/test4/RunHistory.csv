@@ -1,0 +1,35 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-12-06 15:42:18.853 +0530,"Success",0:00:13,0,0,0,"20231206_154218.853/LogFile.txt","","",1
+2023-12-06 15:43:41.073 +0530,"Success",0:00:13,0,0,0,"20231206_154341.073/LogFile.txt","","",1
+2023-12-06 15:45:38.848 +0530,"Aborted",0:00:17,1,0,1,"20231206_154538.848/LogFile.txt","","",0
+2023-12-06 15:46:08.882 +0530,"Success",0:00:26,0,0,0,"20231206_154608.882/LogFile.txt","","",1
+2023-12-06 16:05:20.382 +0530,"Success",0:00:30,0,0,0,"20231206_160520.382/LogFile.txt","","",1
+2023-12-06 16:06:36.486 +0530,"Success",0:00:28,0,0,0,"20231206_160636.486/LogFile.txt","","",1
+2023-12-06 16:23:45.257 +0530,"Aborted",0:02:58,1,0,1,"20231206_162345.257/LogFile.txt","","",0
+2023-12-06 16:26:44.515 +0530,"Failure",0:01:21,1,0,1,"20231206_162644.515/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CreateanAccounttest4""",0
+2023-12-06 16:28:51.551 +0530,"Aborted",0:00:13,1,0,1,"20231206_162851.551/LogFile.txt","","",0
+2023-12-06 16:29:07.037 +0530,"Aborted",0:02:40,1,0,1,"20231206_162907.037/LogFile.txt","","",0
+2023-12-06 16:31:59.692 +0530,"Aborted",0:00:40,1,0,0,"20231206_163159.692/LogFile.txt","","",0
+2023-12-06 16:33:10.625 +0530,"Failure",0:00:34,1,0,1,"20231206_163310.625/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""ViewAccounttest4""",0
+2023-12-06 16:34:00.339 +0530,"Aborted",0:00:27,1,0,1,"20231206_163400.339/LogFile.txt","","",0
+2023-12-06 16:35:35.745 +0530,"Aborted",0:00:58,1,0,1,"20231206_163535.745/LogFile.txt","","",0
+2023-12-06 16:38:26.882 +0530,"Failure",0:00:11,1,0,1,"20231206_163826.882/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: ViewAccounttest4.2",0
+2023-12-06 16:39:27.904 +0530,"Aborted",0:00:24,1,0,1,"20231206_163927.904/LogFile.txt","","",0
+2023-12-06 16:47:42.754 +0530,"Failure",0:00:35,1,0,1,"20231206_164742.754/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""ViewAccounttest4""",0
+2023-12-06 16:51:34.750 +0530,"Failure",0:00:08,1,0,1,"20231206_165134.750/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: ViewAccounttest4",0
+2023-12-06 16:58:43.891 +0530,"Aborted",0:00:32,1,0,1,"20231206_165843.891/LogFile.txt","","",0
+2023-12-06 17:00:36.308 +0530,"Failure",0:00:08,1,0,1,"20231206_170036.308/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:03:14.719 +0530,"Aborted",0:00:01,1,0,0,"20231206_170314.719/LogFile.txt","","",0
+2023-12-06 17:03:17.518 +0530,"Aborted",0:00:12,1,0,1,"20231206_170317.518/LogFile.txt","","",0
+2023-12-06 17:03:31.273 +0530,"Failure",0:00:11,1,0,1,"20231206_170331.273/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:06:36.394 +0530,"Failure",0:00:09,1,0,1,"20231206_170636.394/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:07:22.765 +0530,"Failure",0:00:09,1,0,1,"20231206_170722.765/LogFile.txt","","Error Running Script Command -- doubleclick Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:08:26.897 +0530,"Failure",0:00:09,1,0,1,"20231206_170826.897/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:15:25.894 +0530,"Failure",0:00:09,1,0,1,"20231206_171525.894/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: ViewAccountstest4.3",0
+2023-12-06 17:18:50.394 +0530,"Failure",0:00:10,1,0,1,"20231206_171850.394/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:26:01.412 +0530,"Failure",0:00:11,1,0,1,"20231206_172601.412/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:28:58.793 +0530,"Failure",0:00:08,1,0,1,"20231206_172858.793/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 17:40:38.517 +0530,"Failure",0:00:47,1,0,1,"20231206_174038.517/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""CreateanAccounttest4""",0
+2023-12-06 17:42:12.064 +0530,"Aborted",0:01:20,1,0,1,"20231206_174212.064/LogFile.txt","","",0
+2023-12-06 17:55:09.701 +0530,"Failure",0:00:05,1,0,0,"20231206_175509.701/LogFile.txt","","STUnknownMessage -- ERROR: 'imagefound' was called as a Command, but is only available as a Function",0
+2023-12-06 18:10:06.885 +0530,"Failure",0:00:34,1,0,1,"20231206_181006.885/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""ViewAccountButton""",0

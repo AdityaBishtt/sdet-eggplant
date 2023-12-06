@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="TC1_script" package="eggplantPractice.suite" timestamp="2023-12-04 19:02:00.813 +0530"
+ tests="1"  failures="0" errors="0" time="65.992000">
+  <properties>
+   <property name="RunDate" value="2023-12-04 19:02:00.813 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="TC1.script" assertions="1" status="success"  time="65.949">
+  </testcase>
+ </testsuite>
+</testsuites>

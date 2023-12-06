@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		512,
+		515,
+		203,
+		31
+	],
+	"lastmodifieddate": 1701859208.609,
+	"createddate": 1701859208.609,
+	"name": "CreateanAccounttest4",
+	"lastfounddate": 1701864949.2839999,
+	"ocrcapturestring": "Create an Account",
+	"lastfoundlocation": [
+		524,
+		481,
+		203,
+		31
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[101,15]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "CreateanAccounttest4.png",
+				"connectionname": "192.168.0.128",
+				"type": 1,
+				"connectionserverid": "192.168.0.128",
+				"capturerect": [
+					512,
+					515,
+					203,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Create an Account"
+			}
+	]
+}

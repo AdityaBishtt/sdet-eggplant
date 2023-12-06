@@ -1,0 +1,44 @@
+{
+	"entries": [
+		{
+				"message": "Running MakeMyTrip.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 15:25:07.486 +0530"
+			},
+		{
+				"handlerName": "on_makemytrip",
+				"timestamp": "2023-12-04 15:25:07.708 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_makemytrip",
+				"timestamp": "2023-12-04 15:25:08.434 +0530",
+				"message": "[backspace]",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_makemytrip",
+				"timestamp": "2023-12-04 15:25:09.220 +0530",
+				"message": "Chrome",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"1.762\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-04 15:25:07 +0530\", Successes:\"1\", TestCase:\"MakeMyTrip.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 15:25:09.264 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 MakeMyTrip.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-04 15:25:09.387 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 15:25:07.500 +0530"
+}

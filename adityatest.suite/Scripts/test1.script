@@ -1,0 +1,10 @@
+﻿DoubleClick "ChromeIcon"
+Click imageName:"search.png", waitFor:10
+TypeText "flipkart.com"
+TypeText return
+TypeText 6386980640
+Click (Image:"RequestOTP", WaitFor:24)
+TypeText "516587"
+
+
+

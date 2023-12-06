@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="test1_script" package="adityatest.suite" timestamp="2023-12-05 17:34:31.594 +0530"
+ tests="1"  failures="0" errors="0" time="8.980000">
+  <properties>
+   <property name="RunDate" value="2023-12-05 17:34:31.594 +0530"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="test1.script" assertions="1" status="success"  time="8.946">
+  </testcase>
+ </testsuite>
+</testsuites>

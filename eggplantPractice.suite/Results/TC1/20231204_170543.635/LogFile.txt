@@ -1,0 +1,11 @@
+﻿2023-12-04 17:05:43.663 +0530	START		Running TC1.script
+2023-12-04 17:05:43.886 +0530	typetext		[windowsKey]r	2	on_openbrowser	MakeMyTrip.script
+2023-12-04 17:05:44.620 +0530	typetext		[controlKey]a	3	on_openbrowser	MakeMyTrip.script
+2023-12-04 17:05:45.342 +0530	typetext		[backspace]	4	on_openbrowser	MakeMyTrip.script
+2023-12-04 17:05:46.134 +0530	typetext		Chrome	5	on_openbrowser	MakeMyTrip.script
+2023-12-04 17:05:46.942 +0530	click	OkayImage	at (170, 686)	6	on_openbrowser	MakeMyTrip.script
+2023-12-04 17:05:52.180 +0530	typetext		www.makemytrip.com	8	on_openbrowser	MakeMyTrip.script
+2023-12-04 17:05:52.899 +0530	typetext		[return]	9	on_openbrowser	MakeMyTrip.script
+2023-12-04 17:06:18.353 +0530	Exception	loginBox	No Image Found On Screen: "loginBox"	2	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 17:06:18.416 +0530	EndTestCase		(Duration:"34.741", Errors:"1", Exceptions:"1", StartTime:"2023-12-04 17:05:43 +0530", Successes:"0", TestCase:"TC1.script", Warnings:"0")
+2023-12-04 17:06:18.580 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "loginBox" -- Execution Time 0:00:34 TC1.script

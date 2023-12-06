@@ -1,0 +1,7 @@
+﻿2023-12-06 16:47:42.772 +0530	START		Running test4.script
+2023-12-06 16:47:43.072 +0530	doubleclick	c	at (34, 129)	1	on_test4	test4.script
+2023-12-06 16:47:53.726 +0530	click	se	at (253, 84)	2	on_test4	test4.script
+2023-12-06 16:47:54.732 +0530	typetext		oracle.com[return]{WaitFor:20}	3	on_test4	test4.script
+2023-12-06 16:48:17.883 +0530	Exception	ViewAccounttest4	No Image Found On Screen: "ViewAccounttest4"	4	on_test4	test4.script
+2023-12-06 16:48:17.939 +0530	EndTestCase		(Duration:"35.154", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 16:47:42 +0530", Successes:"0", TestCase:"test4.script", Warnings:"0")
+2023-12-06 16:48:18.272 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "ViewAccounttest4" -- Execution Time 0:00:35 test4.script

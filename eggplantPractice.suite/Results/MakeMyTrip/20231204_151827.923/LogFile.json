@@ -1,0 +1,20 @@
+{
+	"entries": [
+		{
+				"message": "Running MakeMyTrip.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 15:18:27.941 +0530"
+			},
+		{
+				"message": "(Duration:\"0.002\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-04 15:18:27 +0530\", Successes:\"1\", TestCase:\"MakeMyTrip.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 15:18:27.960 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:00 MakeMyTrip.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-04 15:18:28.122 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 15:18:27.954 +0530"
+}

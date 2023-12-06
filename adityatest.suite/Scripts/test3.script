@@ -1,0 +1,6 @@
+﻿DoubleClick "chrometest3"
+Click "searchtest3", waitfor:10
+TypeText "udemy.com"
+
+
+

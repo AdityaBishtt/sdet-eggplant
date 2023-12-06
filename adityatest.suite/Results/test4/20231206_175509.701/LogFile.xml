@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="test4_script" package="adityatest.suite" timestamp="2023-12-06 17:55:09.701 +0530"
+ tests="1"  failures="1" errors="0" time="5.174000">
+  <properties>
+   <property name="RunDate" value="2023-12-06 17:55:09.701 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="test4.script" assertions="1" status="failure"  time="5.134">
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: &apos;imagefound&apos; was called as a Command, but is only available as a Function -- Execution Time 0:00:05 test4.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

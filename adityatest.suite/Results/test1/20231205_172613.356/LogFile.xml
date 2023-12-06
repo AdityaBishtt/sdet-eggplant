@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="test1_script" package="adityatest.suite" timestamp="2023-12-05 17:26:13.356 +0530"
+ tests="1"  failures="0" errors="0" time="17.016000">
+  <properties>
+   <property name="RunDate" value="2023-12-05 17:26:13.356 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="test1.script" assertions="1" status="error"  time="16.988">
+    <error type="Exception" message="No Image Found On Screen: &quot;image0002&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

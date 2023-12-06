@@ -1,0 +1,21 @@
+{
+	"entries": [
+		{
+				"message": "Running MakeMyTrip.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 14:52:22.561 +0530"
+			},
+		{
+				"message": "(Duration:\"0.284\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-04 14:52:22 +0530\", Successes:\"0\", TestCase:\"MakeMyTrip.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 14:52:22.860 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "BadValue: Bad value for Object expression.  Looking for an object or script identifier, got 'Chrome'. -- Execution Time 0:00:00 MakeMyTrip.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-04 14:52:23.136 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 14:52:22.568 +0530"
+}

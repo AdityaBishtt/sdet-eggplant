@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1701767799.158,
+	"lastfoundlocation": [
+		21,
+		106,
+		35,
+		48
+	],
+	"originalcapturelocation": [
+		21,
+		106,
+		35,
+		48
+	],
+	"createddate": 1701767799.158,
+	"lastfounddate": 1701767800.03,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[17,24]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "makeMyTrip/image0001.png",
+				"connectionname": "192.168.0.93",
+				"type": 1,
+				"capturerect": [
+					21,
+					106,
+					35,
+					48
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.93"
+			}
+	],
+	"name": "makeMyTrip/image0001"
+}

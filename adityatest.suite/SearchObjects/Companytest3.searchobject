@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		577,
+		201,
+		75,
+		50
+	],
+	"lastmodifieddate": 1701857725.2509999,
+	"createddate": 1701857725.2509999,
+	"name": "Companytest3",
+	"lastfounddate": 1701860542.3369999,
+	"ocrcapturestring": "Company",
+	"lastfoundlocation": [
+		577,
+		201,
+		75,
+		50
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[37,25]",
+					"Tolerance": "_59",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Companytest3.png",
+				"connectionname": "192.168.0.128",
+				"type": 1,
+				"connectionserverid": "192.168.0.128",
+				"capturerect": [
+					577,
+					201,
+					75,
+					50
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Company"
+			}
+	]
+}

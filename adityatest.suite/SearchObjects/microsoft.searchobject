@@ -1,0 +1,47 @@
+{
+	"lastmodifieddate": 1701781047.9650002,
+	"lastfoundlocation": [
+		19,
+		209,
+		30,
+		40
+	],
+	"originalcapturelocation": [
+		19,
+		209,
+		30,
+		40
+	],
+	"createddate": 1701780853.461,
+	"lastfounddate": 1701780855.428,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[15,20]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "microsoft.png",
+				"connectionname": "192.168.0.93",
+				"type": 1,
+				"capturerect": [
+					19,
+					209,
+					30,
+					40
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.93"
+			}
+	],
+	"name": "microsoft"
+}

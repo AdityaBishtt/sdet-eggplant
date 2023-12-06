@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-12-05 17:19:44.849 +0530,"Failure",0:00:22,1,0,1,"20231205_171944.849/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""image0002""",0
+2023-12-05 17:26:13.356 +0530,"Aborted",0:00:17,1,0,1,"20231205_172613.356/LogFile.txt","","",0
+2023-12-05 17:26:33.933 +0530,"Success",0:00:02,0,0,0,"20231205_172633.933/LogFile.txt","","",1
+2023-12-05 17:28:25.768 +0530,"Success",0:00:02,0,0,0,"20231205_172825.768/LogFile.txt","","",1
+2023-12-05 17:29:19.609 +0530,"Aborted",0:00:18,1,0,1,"20231205_172919.609/LogFile.txt","","",0
+2023-12-05 17:29:38.849 +0530,"Aborted",0:00:18,1,0,1,"20231205_172938.849/LogFile.txt","","",0
+2023-12-05 17:30:00.893 +0530,"Aborted",0:00:17,1,0,1,"20231205_173000.893/LogFile.txt","","",0
+2023-12-05 17:32:09.110 +0530,"Success",0:00:01,0,0,0,"20231205_173209.110/LogFile.txt","","",1
+2023-12-05 17:32:56.367 +0530,"Failure",0:00:22,1,0,1,"20231205_173256.367/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""ChromeIcon""",0
+2023-12-05 17:33:35.323 +0530,"Failure",0:00:23,1,0,1,"20231205_173335.323/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""search""",0
+2023-12-05 17:34:31.594 +0530,"Success",0:00:08,0,0,0,"20231205_173431.594/LogFile.txt","","",1
+2023-12-05 17:35:11.804 +0530,"Aborted",0:00:18,1,0,1,"20231205_173511.804/LogFile.txt","","",0
+2023-12-05 17:35:45.224 +0530,"Failure",0:00:29,1,0,1,"20231205_173545.224/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""search.png""",0
+2023-12-05 17:36:23.982 +0530,"Success",0:00:09,0,0,0,"20231205_173623.982/LogFile.txt","","",1
+2023-12-05 17:40:36.579 +0530,"Success",0:00:11,0,0,0,"20231205_174036.579/LogFile.txt","","",1
+2023-12-05 17:44:38.637 +0530,"Aborted",0:00:32,1,0,1,"20231205_174438.637/LogFile.txt","","",0
+2023-12-05 17:45:12.682 +0530,"Success",0:00:22,0,0,0,"20231205_174512.682/LogFile.txt","","",1

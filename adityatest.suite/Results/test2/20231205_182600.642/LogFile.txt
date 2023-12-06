@@ -1,0 +1,4 @@
+﻿2023-12-05 18:26:00.658 +0530	START		Running test2.script
+2023-12-05 18:26:23.077 +0530	Exception	microsoft	No Image Found On Screen: "microsoft"	1	on_test2	test2.script
+2023-12-05 18:26:23.120 +0530	EndTestCase		(Duration:"22.45", Errors:"1", Exceptions:"1", StartTime:"2023-12-05 18:26:00 +0530", Successes:"0", TestCase:"test2.script", Warnings:"0")
+2023-12-05 18:26:23.620 +0530	FAILURE	Screen_Error.png	Image Not Found: doubleclick Error - No Image Found On Screen: "microsoft" -- Execution Time 0:00:22 test2.script

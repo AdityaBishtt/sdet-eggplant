@@ -1,0 +1,39 @@
+{
+	"lastmodifieddate": 1701864495.3150001,
+	"originalcapturelocation": [
+		666,
+		168,
+		22,
+		31
+	],
+	"createddate": 1701864495.3150001,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_30",
+					"HotSpot": "[11,15]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "ViewAccountButton.png",
+				"connectionname": "192.168.0.128",
+				"type": 1,
+				"capturerect": [
+					666,
+					168,
+					22,
+					31
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.128"
+			}
+	],
+	"name": "ViewAccountButton"
+}

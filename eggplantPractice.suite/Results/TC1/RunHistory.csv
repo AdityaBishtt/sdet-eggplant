@@ -1,0 +1,18 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-12-04 15:15:58.232 +0530,"Success",0:00:01,0,0,0,"20231204_151558.232/LogFile.txt","","",1
+2023-12-04 15:31:01.595 +0530,"Failure",0:00:00,1,0,0,"20231204_153101.595/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'openbrowser'",0
+2023-12-04 15:32:08.919 +0530,"Failure",0:00:00,1,0,0,"20231204_153208.919/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'openbrowser'",0
+2023-12-04 16:01:29.123 +0530,"Success",0:00:03,0,0,0,"20231204_160129.123/LogFile.txt","","",1
+2023-12-04 16:03:17.507 +0530,"Failure",0:00:03,1,0,0,"20231204_160317.507/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'launchapplication'",0
+2023-12-04 16:58:38.737 +0530,"Failure",0:00:00,1,0,1,"20231204_165838.737/LogFile.txt","","No Remote Connection -- typetext Error - Remote Connection Unavailable",0
+2023-12-04 16:59:14.168 +0530,"Success",0:00:09,0,0,0,"20231204_165914.168/LogFile.txt","","",1
+2023-12-04 17:05:43.635 +0530,"Failure",0:00:34,1,0,1,"20231204_170543.635/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""loginBox""",0
+2023-12-04 17:09:43.641 +0530,"Failure",0:00:39,1,0,1,"20231204_170943.641/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""loginBox"" within 8.00 seconds",0
+2023-12-04 17:14:33.779 +0530,"Success",0:00:20,0,0,0,"20231204_171433.779/LogFile.txt","","",1
+2023-12-04 17:20:11.115 +0530,"Success",0:00:32,0,0,0,"20231204_172011.115/LogFile.txt","","",1
+2023-12-04 18:52:34.939 +0530,"Success",0:00:27,0,0,0,"20231204_185234.939/LogFile.txt","","",1
+2023-12-04 18:57:05.744 +0530,"Success",0:00:34,0,0,0,"20231204_185705.744/LogFile.txt","","",1
+2023-12-04 19:02:00.813 +0530,"Success",0:01:05,0,0,0,"20231204_190200.813/LogFile.txt","","",1
+2023-12-04 19:07:18.851 +0530,"Failure",0:01:10,1,0,1,"20231204_190718.851/LogFile.txt","","Image Not Found -- click Error - No Text Found On Screen: ""(TEXT:""Back"")"". Text not found.",0
+2023-12-04 19:13:25.538 +0530,"Success",0:00:34,0,0,0,"20231204_191325.538/LogFile.txt","","",1
+2023-12-04 19:33:37.875 +0530,"Failure",0:00:37,1,0,1,"20231204_193337.875/LogFile.txt","","File Not Found -- readtext Error - Could Not Open Image: list_A",0

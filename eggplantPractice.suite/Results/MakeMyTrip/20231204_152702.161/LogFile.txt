@@ -1,0 +1,7 @@
+﻿2023-12-04 15:27:02.189 +0530	START		Running MakeMyTrip.script
+2023-12-04 15:27:02.393 +0530	typetext		[windowsKey]r	2	on_makemytrip	MakeMyTrip.script
+2023-12-04 15:27:03.116 +0530	typetext		[backspace]	3	on_makemytrip	MakeMyTrip.script
+2023-12-04 15:27:03.904 +0530	typetext		Chrome	4	on_makemytrip	MakeMyTrip.script
+2023-12-04 15:27:04.731 +0530	click	OkayImage	at (170, 686)	5	on_makemytrip	MakeMyTrip.script
+2023-12-04 15:27:04.782 +0530	EndTestCase		(Duration:"2.579", Errors:"0", Exceptions:"0", StartTime:"2023-12-04 15:27:02 +0530", Successes:"1", TestCase:"MakeMyTrip.script", Warnings:"0")
+2023-12-04 15:27:04.938 +0530	SUCCESS		Execution Time 0:00:02 MakeMyTrip.script

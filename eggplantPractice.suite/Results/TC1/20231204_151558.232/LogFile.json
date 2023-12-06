@@ -1,0 +1,35 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 15:15:58.253 +0530"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 15:15:58.532 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 15:15:59.238 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"identifier": "typetext",
+				"handlerLine": 3
+			},
+		{
+				"message": "(Duration:\"1.023\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-04 15:15:58 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 15:15:59.290 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-04 15:15:59.444 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 15:15:58.263 +0530"
+}

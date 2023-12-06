@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="test4_script" package="adityatest.suite" timestamp="2023-12-06 18:10:06.885 +0530"
+ tests="1"  failures="1" errors="1" time="34.394000">
+  <properties>
+   <property name="RunDate" value="2023-12-06 18:10:06.885 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="test4.script" assertions="1" status="error"  time="34.345">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Image Found On Screen: &quot;ViewAccountButton&quot; -- Execution Time 0:00:34 test4.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;ViewAccountButton&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

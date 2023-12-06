@@ -1,0 +1,5 @@
+﻿2023-12-06 15:12:55.323 +0530	START		Running test3.script
+2023-12-06 15:12:55.633 +0530	doubleclick	chrome_test3	at (35, 129)	1	on_test3	test3.script
+2023-12-06 15:12:55.671 +0530	Exception	search4_test3	Could Not Open Image: search4_test3	2	on_test3	test3.script
+2023-12-06 15:12:55.704 +0530	EndTestCase		(Duration:"0.367", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 15:12:55 +0530", Successes:"0", TestCase:"test3.script", Warnings:"0")
+2023-12-06 15:12:56.104 +0530	FAILURE	Screen_Error.png	File Not Found: click Error - Could Not Open Image: search4_test3 -- Execution Time 0:00:00 test3.script

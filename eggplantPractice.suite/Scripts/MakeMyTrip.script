@@ -1,0 +1,33 @@
+﻿
+To openBrowser
+	TypeText windowsKey, "r"
+	TypeText controlKey, "a"
+	TypeText backspace
+	TypeText "Chrome"
+	Click "OkayImage"
+	wait 5
+	TypeText "www.makemytrip.com"
+	TypeText return
+	DoubleClick (Image:"makeMyTrip/image0001", WaitFor:38)
+End openBrowser
+
+To loginIntoApplication
+	WaitFor 12, "makeMyTrip/loginBox"
+	Click "makeMyTrip/loginBox"
+	TypeText "8800431659"
+	Click {Text:"Continue", ValidWords:"Continue", WaitFor:8}	
+End loginIntoApplication
+
+To backToHomePage
+	Click {Text:"Back", WaitFor:8}
+	Click {imageName:"makeMyTrip/closeIcon", waitFor:8}
+End backToHomePage
+
+To clickOnListItems
+	ReadText[[72,￹y1￺TP-EPF-TOKEN￻], [￹x2￺TP-EPF-TOKEN￻,￹y2￺TP-EPF-TOKEN￻]]
+(,204,975,285)
+log headerMenuBar
+
+End clickOnListItems
+
+

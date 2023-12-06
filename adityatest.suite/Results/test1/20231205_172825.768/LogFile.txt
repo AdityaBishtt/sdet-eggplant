@@ -1,0 +1,7 @@
+﻿2023-12-05 17:28:25.790 +0530	START		Running test1.script
+2023-12-05 17:28:26.146 +0530	doubleclick	image0002	at (39, 132)	1	on_test1	test1.script
+2023-12-05 17:28:26.847 +0530	typetext			2	on_test1	test1.script
+2023-12-05 17:28:27.711 +0530	doubleclick	image0003	at (37, 132)	3	on_test1	test1.script
+2023-12-05 17:28:28.600 +0530	typetext		flipkart.com	4	on_test1	test1.script
+2023-12-05 17:28:28.636 +0530	EndTestCase		(Duration:"2.829", Errors:"0", Exceptions:"0", StartTime:"2023-12-05 17:28:25 +0530", Successes:"1", TestCase:"test1.script", Warnings:"0")
+2023-12-05 17:28:28.699 +0530	SUCCESS		Execution Time 0:00:02 test1.script

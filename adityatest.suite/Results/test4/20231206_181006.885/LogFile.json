@@ -1,0 +1,56 @@
+{
+	"entries": [
+		{
+				"message": "Running test4.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 18:10:06.923 +0530"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 18:10:07.330 +0530",
+				"scriptName": "test4.script",
+				"message": "at (34, 129)",
+				"image": "c",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 18:10:10.866 +0530",
+				"scriptName": "test4.script",
+				"message": "at (263, 94)",
+				"image": "se",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 18:10:11.875 +0530",
+				"message": "oracle.com[return]{WaitFor:20}",
+				"scriptName": "test4.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 18:10:41.189 +0530",
+				"scriptName": "test4.script",
+				"message": "No Image Found On Screen: \"ViewAccountButton\"",
+				"image": "ViewAccountButton",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"34.345\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 18:10:06 +0530\", Successes:\"0\", TestCase:\"test4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 18:10:41.281 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: click Error - No Image Found On Screen: \"ViewAccountButton\" -- Execution Time 0:00:34 test4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-06 18:10:41.647 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 18:10:06.932 +0530"
+}

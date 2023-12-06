@@ -1,0 +1,5 @@
+﻿2023-12-06 15:34:09.153 +0530	START		Running test3.script
+2023-12-06 15:34:09.555 +0530	doubleclick	chrometest3	at (39, 130)	1	on_test3	test3.script
+2023-12-06 15:34:09.575 +0530	Exception		Image Property List did not contain "ImageName" property	2	on_test3	test3.script
+2023-12-06 15:34:09.848 +0530	EndTestCase		(Duration:"0.676", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 15:34:09 +0530", Successes:"0", TestCase:"test3.script", Warnings:"0")
+2023-12-06 15:34:10.256 +0530	FAILURE	Screen_Error.png	Error Running Script Command: click Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:00 test3.script

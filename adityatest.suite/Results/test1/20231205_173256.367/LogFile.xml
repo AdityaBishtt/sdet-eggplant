@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="test1_script" package="adityatest.suite" timestamp="2023-12-05 17:32:56.367 +0530"
+ tests="1"  failures="1" errors="1" time="22.872000">
+  <properties>
+   <property name="RunDate" value="2023-12-05 17:32:56.367 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="test1.script" assertions="1" status="error"  time="22.842">
+    <failure type="FAILURE" message="Image Not Found: doubleclick Error - No Image Found On Screen: &quot;ChromeIcon&quot; -- Execution Time 0:00:22 test1.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;ChromeIcon&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

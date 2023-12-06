@@ -1,0 +1,62 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 16:03:17.535 +0530"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 16:03:17.831 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 16:03:18.563 +0530",
+				"message": "[controlKey]a",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 16:03:19.282 +0530",
+				"message": "[backspace]",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 16:03:20.072 +0530",
+				"message": "Chrome",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 16:03:20.889 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "at (170, 686)",
+				"image": "OkayImage",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"3.406\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-04 16:03:17 +0530\", Successes:\"0\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 16:03:20.957 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "STUnknownMessage: ERROR: No Such Command: 'launchapplication' -- Execution Time 0:00:03 TC1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-04 16:03:21.283 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 16:03:17.548 +0530"
+}

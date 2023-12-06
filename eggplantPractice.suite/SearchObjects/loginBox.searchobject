@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		478,
+		260,
+		459,
+		50
+	],
+	"lastmodifieddate": 1701696989.5580001,
+	"createddate": 1701689510.6789999,
+	"name": "loginBox",
+	"lastfounddate": 1701698636.8600001,
+	"ocrcapturestring": "Enter email or mobile number",
+	"lastfoundlocation": [
+		478,
+		260,
+		459,
+		50
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[229,25]",
+					"Tolerance": "_40",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "makeMyTrip/loginBox.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					478,
+					260,
+					459,
+					50
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Enter email or mobile number"
+			}
+	]
+}

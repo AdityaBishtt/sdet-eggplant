@@ -1,0 +1,49 @@
+{
+	"originalcapturelocation": [
+		657,
+		168,
+		141,
+		34
+	],
+	"lastmodifieddate": 1701863827.444,
+	"createddate": 1701860838.7389998,
+	"name": "ViewAccountstest4.2",
+	"lastfounddate": 1701863806.803,
+	"ocrcapturestring": "View Accounts",
+	"lastfoundlocation": [
+		659,
+		168,
+		141,
+		34
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[70,17]",
+					"Tolerance": "_69",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "ViewAccountstest4.2.png",
+				"connectionname": "192.168.0.128",
+				"type": 1,
+				"connectionserverid": "192.168.0.128",
+				"capturerect": [
+					657,
+					168,
+					141,
+					34
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "View Accounts"
+			}
+	]
+}

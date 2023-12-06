@@ -1,0 +1,18 @@
+﻿Click "Test.png"
+DoubleClick (Text:"Google")
+RefreshScreen
+Repeat until repeatIndex()=5
+	LogSuccess "Success"&& repeatIndex()
+	
+End repeat
+
+put 6 into x
+
+If (x = 4) then
+	LogSuccess "Running"
+Else
+	Log "Not Running"
+	
+End if
+
+

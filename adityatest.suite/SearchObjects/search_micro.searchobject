@@ -1,0 +1,47 @@
+{
+	"lastmodifieddate": 1701781037.154,
+	"lastfoundlocation": [
+		142,
+		58,
+		394,
+		26
+	],
+	"originalcapturelocation": [
+		142,
+		58,
+		394,
+		26
+	],
+	"createddate": 1701779857.1529999,
+	"lastfounddate": 1701779922.484,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"deleted": true,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[197,13]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "search_micro.png",
+				"connectionname": "192.168.0.93",
+				"type": 1,
+				"capturerect": [
+					142,
+					58,
+					394,
+					26
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.93"
+			}
+	],
+	"name": "search_micro"
+}

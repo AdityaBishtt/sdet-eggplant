@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1701779666.4980001,
+	"lastfoundlocation": [
+		22,
+		205,
+		33,
+		49
+	],
+	"originalcapturelocation": [
+		22,
+		205,
+		33,
+		49
+	],
+	"createddate": 1701779666.4980001,
+	"lastfounddate": 1701780780.891,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[16,24]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "Micro_edg.png",
+				"connectionname": "192.168.0.93",
+				"type": 1,
+				"capturerect": [
+					22,
+					205,
+					33,
+					49
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.93"
+			}
+	],
+	"name": "Micro_edg"
+}

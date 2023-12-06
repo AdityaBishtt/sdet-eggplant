@@ -1,0 +1,75 @@
+{
+	"originalcapturelocation": [
+		981,
+		117,
+		19,
+		35
+	],
+	"lastmodifieddate": 1701696786.2539999,
+	"createddate": 1701696618.9060001,
+	"name": "makeMyTrip/closeIcon",
+	"lastfounddate": 1701696767.375,
+	"ocrcapturestring": "X",
+	"lastfoundlocation": [
+		981,
+		117,
+		19,
+		35
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[9,17]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "makeMyTrip/closeIcon.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					981,
+					117,
+					19,
+					35
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "X"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_30",
+					"HotSpot": "[9,17]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "makeMyTrip/closeIcon.png",
+				"connectionname": "192.168.0.61",
+				"type": 1,
+				"connectionserverid": "192.168.0.61",
+				"capturerect": [
+					981,
+					117,
+					19,
+					35
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "X"
+			}
+	]
+}

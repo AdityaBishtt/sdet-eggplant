@@ -1,0 +1,25 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2023-12-06 15:00:41.018 +0530,"Failure",0:00:23,1,0,1,"20231206_150041.018/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrome_test3""",0
+2023-12-06 15:01:07.850 +0530,"Failure",0:00:23,1,0,1,"20231206_150107.850/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrome_test3""",0
+2023-12-06 15:02:35.104 +0530,"Aborted",0:00:46,1,0,1,"20231206_150235.104/LogFile.txt","","",0
+2023-12-06 15:03:22.631 +0530,"Failure",0:00:22,1,0,1,"20231206_150322.631/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrome2_test3""",0
+2023-12-06 15:04:09.292 +0530,"Aborted",0:00:12,1,0,1,"20231206_150409.292/LogFile.txt","","",0
+2023-12-06 15:04:54.764 +0530,"Failure",0:00:24,1,0,1,"20231206_150454.764/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""search_test3""",0
+2023-12-06 15:07:18.648 +0530,"Failure",0:00:24,1,0,1,"20231206_150718.648/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""search3_test3""",0
+2023-12-06 15:10:05.381 +0530,"Aborted",0:00:01,1,0,0,"20231206_151005.381/LogFile.txt","","",0
+2023-12-06 15:10:08.641 +0530,"Aborted",0:00:10,1,0,1,"20231206_151008.641/LogFile.txt","","",0
+2023-12-06 15:10:30.878 +0530,"Aborted",0:02:00,1,0,1,"20231206_151030.878/LogFile.txt","","",0
+2023-12-06 15:12:55.278 +0530,"Failure",0:00:00,1,0,1,"20231206_151255.278/LogFile.txt","","File Not Found -- click Error - Could Not Open Image: search4_test3",0
+2023-12-06 15:13:34.958 +0530,"Failure",0:00:23,1,0,1,"20231206_151334.958/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrome_test3""",0
+2023-12-06 15:14:02.337 +0530,"Failure",0:00:23,1,0,1,"20231206_151402.337/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""search4_test3_new""",0
+2023-12-06 15:20:19.012 +0530,"Aborted",0:00:01,1,0,0,"20231206_152019.012/LogFile.txt","","",0
+2023-12-06 15:22:05.273 +0530,"Failure",0:00:23,1,0,1,"20231206_152205.273/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrome_test3""",0
+2023-12-06 15:26:44.761 +0530,"Failure",0:00:23,1,0,1,"20231206_152644.761/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""ChromeIcon""",0
+2023-12-06 15:29:05.453 +0530,"Aborted",0:02:17,1,0,1,"20231206_152905.453/LogFile.txt","","",0
+2023-12-06 15:32:11.003 +0530,"Failure",0:00:23,1,0,1,"20231206_153211.003/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""searchtest3""",0
+2023-12-06 15:33:42.150 +0530,"Failure",0:00:22,1,0,1,"20231206_153342.150/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrometest3""",0
+2023-12-06 15:34:09.124 +0530,"Failure",0:00:00,1,0,1,"20231206_153409.124/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 15:34:21.027 +0530,"Failure",0:00:23,1,0,1,"20231206_153421.027/LogFile.txt","","Image Not Found -- doubleclick Error - No Image Found On Screen: ""chrometest3""",0
+2023-12-06 15:34:53.075 +0530,"Failure",0:00:00,1,0,1,"20231206_153453.075/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0
+2023-12-06 15:35:09.942 +0530,"Aborted",0:00:17,1,0,1,"20231206_153509.942/LogFile.txt","","",0
+2023-12-06 15:35:28.012 +0530,"Failure",0:00:00,1,0,1,"20231206_153528.012/LogFile.txt","","Error Running Script Command -- click Error - Image Property List did not contain ""ImageName"" property",0

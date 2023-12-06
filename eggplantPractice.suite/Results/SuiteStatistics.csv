@@ -1,0 +1,4 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+TC1,Failure,17,8,2023-12-04 15:15:58 +0530,2023-12-04 19:33:37 +0530,0:00:25
+MakeMyTrip,Success,23,2,2023-12-04 14:47:12 +0530,2023-12-04 16:42:00 +0530,0:00:00
+DemoPracticeEggPlant,Failure,3,3,2023-12-01 15:38:30 +0530,2023-12-01 15:42:23 +0530,0:00:00

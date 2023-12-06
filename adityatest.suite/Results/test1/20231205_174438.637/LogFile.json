@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running test1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-05 17:44:38.664 +0530"
+			},
+		{
+				"handlerName": "on_test1",
+				"timestamp": "2023-12-05 17:45:11.349 +0530",
+				"scriptName": "test1.script",
+				"message": "No Image Found On Screen: \"ChromeIcon\"",
+				"image": "ChromeIcon",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"32.855\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-05 17:44:38 +0530\", Successes:\"0\", TestCase:\"test1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-05 17:45:11.534 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:32 test1.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-05 17:45:11.556 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-05 17:44:38.675 +0530"
+}

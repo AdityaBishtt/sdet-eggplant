@@ -1,0 +1,64 @@
+{
+	"entries": [
+		{
+				"message": "Running test4.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 17:42:12.081 +0530"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:42:12.410 +0530",
+				"scriptName": "test4.script",
+				"message": "at (34, 129)",
+				"image": "c",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:42:20.469 +0530",
+				"scriptName": "test4.script",
+				"message": "at (253, 84)",
+				"image": "se",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:42:21.478 +0530",
+				"message": "oracle.com[return]{WaitFor:20}",
+				"scriptName": "test4.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:42:30.407 +0530",
+				"scriptName": "test4.script",
+				"message": "at (677, 183)",
+				"image": "ViewAccountButton",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:43:31.950 +0530",
+				"scriptName": "test4.script",
+				"message": "No Image Found On Screen: \"CreateanAccounttest4\"",
+				"image": "CreateanAccounttest4",
+				"handlerLine": 5,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"79.996\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 17:42:12 +0530\", Successes:\"0\", TestCase:\"test4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 17:43:32.097 +0530"
+			},
+		{
+				"message": "Execution Time 0:01:20 test4.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-06 17:43:32.124 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 17:42:12.098 +0530"
+}

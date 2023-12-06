@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<statistics>
+ <script name="test2">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>3</NumberOfFails>
+  <FirstRun>2023-12-05 18:21:24 +0530</FirstRun>
+  <LastRun>2023-12-05 18:26:00 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="test4">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>22</NumberOfRuns>
+  <NumberOfFails>17</NumberOfFails>
+  <FirstRun>2023-12-06 15:42:18 +0530</FirstRun>
+  <LastRun>2023-12-06 18:10:06 +0530</LastRun>
+  <TotalTimeOnSuccess>111.754000</TotalTimeOnSuccess>
+ </script>
+ <script name="test1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>11</NumberOfRuns>
+  <NumberOfFails>4</NumberOfFails>
+  <FirstRun>2023-12-05 17:19:44 +0530</FirstRun>
+  <LastRun>2023-12-05 17:45:12 +0530</LastRun>
+  <TotalTimeOnSuccess>59.610000</TotalTimeOnSuccess>
+ </script>
+ <script name="test3">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>16</NumberOfRuns>
+  <NumberOfFails>16</NumberOfFails>
+  <FirstRun>2023-12-06 15:00:41 +0530</FirstRun>
+  <LastRun>2023-12-06 15:35:28 +0530</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+</statistics>

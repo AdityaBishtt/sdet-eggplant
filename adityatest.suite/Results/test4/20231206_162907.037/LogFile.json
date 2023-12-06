@@ -1,0 +1,73 @@
+{
+	"entries": [
+		{
+				"message": "Running test4.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 16:29:07.052 +0530"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:29:07.373 +0530",
+				"scriptName": "test4.script",
+				"message": "at (34, 129)",
+				"image": "c",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:29:15.711 +0530",
+				"scriptName": "test4.script",
+				"message": "at (253, 84)",
+				"image": "se",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:29:16.553 +0530",
+				"message": "oracle.com[return]",
+				"scriptName": "test4.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:29:25.118 +0530",
+				"scriptName": "test4.script",
+				"message": "at (614, 226)",
+				"image": "Companytest3",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:29:25.937 +0530",
+				"scriptName": "test4.script",
+				"message": "at (726, 184)",
+				"image": "ViewAccounttest4",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:31:47.061 +0530",
+				"scriptName": "test4.script",
+				"message": "No Image Found On Screen: \"CreateanAccounttest4\"",
+				"image": "CreateanAccounttest4",
+				"handlerLine": 6,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"160.191\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 16:29:07 +0530\", Successes:\"0\", TestCase:\"test4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 16:31:47.256 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:40 test4.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-06 16:31:47.292 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 16:29:07.061 +0530"
+}

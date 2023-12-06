@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="test2_script" package="adityatest.suite" timestamp="2023-12-05 18:21:24.331 +0530"
+ tests="1"  failures="1" errors="1" time="23.208000">
+  <properties>
+   <property name="RunDate" value="2023-12-05 18:21:24.331 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="test2.script" assertions="1" status="error"  time="23.175">
+    <failure type="FAILURE" message="Image Not Found: doubleclick Error - No Image Found On Screen: &quot;Micro_edg&quot; -- Execution Time 0:00:23 test2.script" />
+    <error type="Exception" message="No Image Found On Screen: &quot;Micro_edg&quot;" />
+  </testcase>
+ </testsuite>
+</testsuites>

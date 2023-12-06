@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running test4.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 16:28:51.569 +0530"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:29:05.369 +0530",
+				"scriptName": "test4.script",
+				"message": "No Image Found On Screen: \"c\"",
+				"image": "c",
+				"handlerLine": 1,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"13.927\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 16:28:51 +0530\", Successes:\"0\", TestCase:\"test4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 16:29:05.515 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:13 test4.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-06 16:29:05.552 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 16:28:51.584 +0530"
+}

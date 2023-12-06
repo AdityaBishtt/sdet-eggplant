@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="test4_script" package="adityatest.suite" timestamp="2023-12-06 16:31:59.692 +0530"
+ tests="1"  failures="0" errors="0" time="40.238000">
+  <properties>
+   <property name="RunDate" value="2023-12-06 16:31:59.692 +0530"/>
+   <property name="Status" value="Aborted"/>
+  </properties>
+  <testcase name="test4.script" assertions="1" status="failure"  time="40.204">
+    <failure type="FAILURE" message="See main script" />
+  </testcase>
+ </testsuite>
+</testsuites>

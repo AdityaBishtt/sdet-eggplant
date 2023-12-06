@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<runHistory script="test2">
+ <run>
+  <RunDate>2023-12-05 18:21:24.331 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>23.208000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231205_182124.331/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;Micro_edg&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-05 18:22:55.579 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.754000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231205_182255.579/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;Micro_edg&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-05 18:26:00.642 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>22.473000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231205_182600.642/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- doubleclick Error - No Image Found On Screen: &quot;microsoft&quot;</ErrorMessage>
+ </run>
+</runHistory>

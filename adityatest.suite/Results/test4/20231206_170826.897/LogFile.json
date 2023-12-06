@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running test4.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 17:08:26.925 +0530"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:08:27.258 +0530",
+				"scriptName": "test4.script",
+				"message": "at (34, 129)",
+				"image": "c",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:08:35.733 +0530",
+				"scriptName": "test4.script",
+				"message": "at (253, 84)",
+				"image": "se",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:08:36.740 +0530",
+				"message": "oracle.com[return]{WaitFor:20}",
+				"scriptName": "test4.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 17:08:36.755 +0530",
+				"message": "Image Property List did not contain \"ImageName\" property",
+				"scriptName": "test4.script",
+				"handlerLine": 4,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"9.845\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 17:08:26 +0530\", Successes:\"0\", TestCase:\"test4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 17:08:36.784 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Error Running Script Command: click Error - Image Property List did not contain \"ImageName\" property -- Execution Time 0:00:09 test4.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-06 17:08:37.224 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 17:08:26.936 +0530"
+}

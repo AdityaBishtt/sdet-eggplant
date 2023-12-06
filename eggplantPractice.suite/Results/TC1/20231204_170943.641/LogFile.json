@@ -1,0 +1,87 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 17:09:43.683 +0530"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 17:09:43.958 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 17:09:44.688 +0530",
+				"message": "[controlKey]a",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 17:09:45.413 +0530",
+				"message": "[backspace]",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 17:09:46.200 +0530",
+				"message": "Chrome",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 17:09:47.008 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "at (170, 686)",
+				"image": "OkayImage",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 17:09:52.248 +0530",
+				"message": "www.makemytrip.com",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 17:09:52.975 +0530",
+				"message": "[return]",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginintoapplication",
+				"timestamp": "2023-12-04 17:10:22.725 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "Unable To Find Any Image On Screen \"loginBox\" within 8.00 seconds",
+				"image": "loginBox",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"39.151\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-04 17:09:43 +0530\", Successes:\"0\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 17:10:22.846 +0530"
+			},
+		{
+				"image": "Screen_Error.png",
+				"message": "Image Not Found: waitfor Error - Unable To Find Any Image On Screen \"loginBox\" within 8.00 seconds -- Execution Time 0:00:39 TC1.script",
+				"identifier": "FAILURE",
+				"timestamp": "2023-12-04 17:10:23.167 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 17:09:43.692 +0530"
+}

@@ -1,0 +1,55 @@
+{
+	"entries": [
+		{
+				"message": "Running test4.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 16:06:36.506 +0530"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:06:36.822 +0530",
+				"scriptName": "test4.script",
+				"message": "at (34, 129)",
+				"image": "c",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:06:48.527 +0530",
+				"scriptName": "test4.script",
+				"message": "at (253, 84)",
+				"image": "se",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:06:49.368 +0530",
+				"message": "oracle.com[return]",
+				"scriptName": "test4.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_test4",
+				"timestamp": "2023-12-06 16:07:04.486 +0530",
+				"scriptName": "test4.script",
+				"message": "at (614, 226)",
+				"image": "Companytest3",
+				"handlerLine": 4,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"28.053\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-06 16:06:36 +0530\", Successes:\"1\", TestCase:\"test4.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 16:07:04.582 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:28 test4.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-06 16:07:04.736 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 16:06:36.523 +0530"
+}

@@ -1,0 +1,9 @@
+﻿2023-12-06 16:29:07.052 +0530	START		Running test4.script
+2023-12-06 16:29:07.373 +0530	doubleclick	c	at (34, 129)	1	on_test4	test4.script
+2023-12-06 16:29:15.711 +0530	click	se	at (253, 84)	2	on_test4	test4.script
+2023-12-06 16:29:16.553 +0530	typetext		oracle.com[return]	3	on_test4	test4.script
+2023-12-06 16:29:25.118 +0530	click	Companytest3	at (614, 226)	4	on_test4	test4.script
+2023-12-06 16:29:25.937 +0530	click	ViewAccounttest4	at (726, 184)	5	on_test4	test4.script
+2023-12-06 16:31:47.061 +0530	Exception	CreateanAccounttest4	No Image Found On Screen: "CreateanAccounttest4"	6	on_test4	test4.script
+2023-12-06 16:31:47.256 +0530	EndTestCase		(Duration:"160.191", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 16:29:07 +0530", Successes:"0", TestCase:"test4.script", Warnings:"0")
+2023-12-06 16:31:47.292 +0530	ABORTED		Execution Time 0:02:40 test4.script

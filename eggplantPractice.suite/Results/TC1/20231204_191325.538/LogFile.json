@@ -1,0 +1,130 @@
+{
+	"entries": [
+		{
+				"message": "Running TC1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-04 19:13:25.557 +0530"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 19:13:25.775 +0530",
+				"message": "[windowsKey]r",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 2,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 19:13:26.506 +0530",
+				"message": "[controlKey]a",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 19:13:27.225 +0530",
+				"message": "[backspace]",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 19:13:28.010 +0530",
+				"message": "Chrome",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 5,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 19:13:28.820 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "at (170, 686)",
+				"image": "OkayImage",
+				"handlerLine": 6,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 19:13:34.057 +0530",
+				"message": "www.makemytrip.com",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 8,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_openbrowser",
+				"timestamp": "2023-12-04 19:13:34.777 +0530",
+				"message": "[return]",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 9,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginintoapplication",
+				"timestamp": "2023-12-04 19:13:43.220 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "found at (707, 285)",
+				"image": "makeMyTrip/loginBox",
+				"handlerLine": 2,
+				"identifier": "waitfor"
+			},
+		{
+				"handlerName": "on_loginintoapplication",
+				"timestamp": "2023-12-04 19:13:43.830 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "at (707, 285)",
+				"image": "makeMyTrip/loginBox",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_loginintoapplication",
+				"timestamp": "2023-12-04 19:13:44.659 +0530",
+				"message": "8800431659",
+				"scriptName": "MakeMyTrip.script",
+				"handlerLine": 4,
+				"identifier": "typetext"
+			},
+		{
+				"handlerName": "on_loginintoapplication",
+				"timestamp": "2023-12-04 19:13:51.172 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "at (705, 346)",
+				"image": "(TEXT:\"Continue\")",
+				"handlerLine": 5,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_backtohomepage",
+				"timestamp": "2023-12-04 19:13:58.496 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "at (304, 178)",
+				"image": "(TEXT:\"Back\")",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_backtohomepage",
+				"timestamp": "2023-12-04 19:14:00.012 +0530",
+				"scriptName": "MakeMyTrip.script",
+				"message": "at (990, 134)",
+				"image": "makeMyTrip/closeIcon",
+				"handlerLine": 3,
+				"identifier": "click"
+			},
+		{
+				"message": "(Duration:\"34.499\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-04 19:13:25 +0530\", Successes:\"1\", TestCase:\"TC1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-04 19:14:00.074 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:34 TC1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-04 19:14:00.172 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-04 19:13:25.571 +0530"
+}

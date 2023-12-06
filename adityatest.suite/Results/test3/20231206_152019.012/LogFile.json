@@ -1,0 +1,29 @@
+{
+	"entries": [
+		{
+				"message": "Running test3.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 15:20:19.045 +0530"
+			},
+		{
+				"handlerName": "on_test3",
+				"timestamp": "2023-12-06 15:20:19.329 +0530",
+				"scriptName": "test3.script",
+				"message": "at (35, 129)",
+				"image": "chrome_test3",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"message": "(Duration:\"1.626\", Errors:\"1\", Exceptions:\"0\", StartTime:\"2023-12-06 15:20:19 +0530\", Successes:\"0\", TestCase:\"test3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 15:20:20.681 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:01 test3.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-06 15:20:20.703 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 15:20:19.053 +0530"
+}

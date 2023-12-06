@@ -1,0 +1,4 @@
+﻿2023-12-06 15:10:08.656 +0530	START		Running test3.script
+2023-12-06 15:10:19.439 +0530	Exception	chrome_test3	No Image Found On Screen: "chrome_test3"	1	on_test3	test3.script
+2023-12-06 15:10:19.595 +0530	EndTestCase		(Duration:"10.93", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 15:10:08 +0530", Successes:"0", TestCase:"test3.script", Warnings:"0")
+2023-12-06 15:10:19.614 +0530	ABORTED		Execution Time 0:00:10 test3.script

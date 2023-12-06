@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="MakeMyTrip_script" package="eggplantPractice.suite" timestamp="2023-12-04 14:47:12.835 +0530"
+ tests="1"  failures="1" errors="0" time="0.584000">
+  <properties>
+   <property name="RunDate" value="2023-12-04 14:47:12.835 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="MakeMyTrip.script" assertions="1" status="failure"  time="0.548">
+    <failure type="FAILURE" message="STUnknownMessage: ERROR: No Such Command: &apos;launch&apos; -- Execution Time 0:00:00 MakeMyTrip.script" />
+  </testcase>
+ </testsuite>
+</testsuites>

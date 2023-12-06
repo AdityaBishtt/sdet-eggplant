@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="TC1_script" package="eggplantPractice.suite" timestamp="2023-12-04 19:07:18.851 +0530"
+ tests="1"  failures="1" errors="1" time="70.635000">
+  <properties>
+   <property name="RunDate" value="2023-12-04 19:07:18.851 +0530"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="TC1.script" assertions="1" status="error"  time="70.602">
+    <failure type="FAILURE" message="Image Not Found: click Error - No Text Found On Screen: &quot;(TEXT:&quot;Back&quot;)&quot;. Text not found. -- Execution Time 0:01:10 TC1.script" />
+    <error type="Exception" message="No Text Found On Screen: &quot;(TEXT:&quot;Back&quot;)&quot;. Text not found." />
+  </testcase>
+ </testsuite>
+</testsuites>

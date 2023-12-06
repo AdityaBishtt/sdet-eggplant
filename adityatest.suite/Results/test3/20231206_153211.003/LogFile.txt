@@ -1,0 +1,5 @@
+﻿2023-12-06 15:32:11.043 +0530	START		Running test3.script
+2023-12-06 15:32:11.362 +0530	doubleclick	chrometest3	at (39, 130)	1	on_test3	test3.script
+2023-12-06 15:32:34.675 +0530	Exception	searchtest3	No Image Found On Screen: "searchtest3"	2	on_test3	test3.script
+2023-12-06 15:32:34.731 +0530	EndTestCase		(Duration:"23.67", Errors:"1", Exceptions:"1", StartTime:"2023-12-06 15:32:11 +0530", Successes:"0", TestCase:"test3.script", Warnings:"0")
+2023-12-06 15:32:35.158 +0530	FAILURE	Screen_Error.png	Image Not Found: click Error - No Image Found On Screen: "searchtest3" -- Execution Time 0:00:23 test3.script

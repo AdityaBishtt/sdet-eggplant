@@ -1,0 +1,46 @@
+{
+	"entries": [
+		{
+				"message": "Running test1.script",
+				"identifier": "START",
+				"timestamp": "2023-12-05 17:34:31.621 +0530"
+			},
+		{
+				"handlerName": "on_test1",
+				"timestamp": "2023-12-05 17:34:31.993 +0530",
+				"scriptName": "test1.script",
+				"message": "at (37, 129)",
+				"image": "ChromeIcon",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test1",
+				"timestamp": "2023-12-05 17:34:39.700 +0530",
+				"scriptName": "test1.script",
+				"message": "at (254, 87)",
+				"image": "search.png",
+				"handlerLine": 2,
+				"identifier": "click"
+			},
+		{
+				"handlerName": "on_test1",
+				"timestamp": "2023-12-05 17:34:40.554 +0530",
+				"message": "flipkart.com",
+				"scriptName": "test1.script",
+				"handlerLine": 3,
+				"identifier": "typetext"
+			},
+		{
+				"message": "(Duration:\"8.946\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2023-12-05 17:34:31 +0530\", Successes:\"1\", TestCase:\"test1.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-05 17:34:40.576 +0530"
+			},
+		{
+				"message": "Execution Time 0:00:08 test1.script",
+				"identifier": "SUCCESS",
+				"timestamp": "2023-12-05 17:34:40.630 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-05 17:34:31.627 +0530"
+}

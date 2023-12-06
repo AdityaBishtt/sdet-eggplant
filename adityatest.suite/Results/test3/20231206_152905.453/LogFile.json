@@ -1,0 +1,38 @@
+{
+	"entries": [
+		{
+				"message": "Running test3.script",
+				"identifier": "START",
+				"timestamp": "2023-12-06 15:29:05.493 +0530"
+			},
+		{
+				"handlerName": "on_test3",
+				"timestamp": "2023-12-06 15:29:05.796 +0530",
+				"scriptName": "test3.script",
+				"message": "at (39, 130)",
+				"image": "chrometest3",
+				"handlerLine": 1,
+				"identifier": "doubleclick"
+			},
+		{
+				"handlerName": "on_test3",
+				"timestamp": "2023-12-06 15:31:22.509 +0530",
+				"scriptName": "test3.script",
+				"message": "No Image Found On Screen: \"search_test3\"",
+				"image": "search_test3",
+				"handlerLine": 2,
+				"identifier": "Exception"
+			},
+		{
+				"message": "(Duration:\"137.138\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2023-12-06 15:29:05 +0530\", Successes:\"0\", TestCase:\"test3.script\", Warnings:\"0\")",
+				"identifier": "EndTestCase",
+				"timestamp": "2023-12-06 15:31:22.655 +0530"
+			},
+		{
+				"message": "Execution Time 0:02:17 test3.script",
+				"identifier": "ABORTED",
+				"timestamp": "2023-12-06 15:31:22.673 +0530"
+			}
+	],
+	"createdTimestamp": "2023-12-06 15:29:05.513 +0530"
+}

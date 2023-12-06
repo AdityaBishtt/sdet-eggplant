@@ -1,0 +1,17 @@
+﻿2023-12-04 19:33:37.902 +0530	START		Running TC1.script
+2023-12-04 19:33:38.207 +0530	typetext		[windowsKey]r	2	on_openbrowser	MakeMyTrip.script
+2023-12-04 19:33:38.944 +0530	typetext		[controlKey]a	3	on_openbrowser	MakeMyTrip.script
+2023-12-04 19:33:39.663 +0530	typetext		[backspace]	4	on_openbrowser	MakeMyTrip.script
+2023-12-04 19:33:40.447 +0530	typetext		Chrome	5	on_openbrowser	MakeMyTrip.script
+2023-12-04 19:33:41.264 +0530	click	OkayImage	at (170, 686)	6	on_openbrowser	MakeMyTrip.script
+2023-12-04 19:33:46.504 +0530	typetext		www.makemytrip.com	8	on_openbrowser	MakeMyTrip.script
+2023-12-04 19:33:47.225 +0530	typetext		[return]	9	on_openbrowser	MakeMyTrip.script
+2023-12-04 19:33:56.476 +0530	waitfor	makeMyTrip/loginBox	found at (707, 285)	2	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 19:33:57.011 +0530	click	makeMyTrip/loginBox	at (707, 285)	3	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 19:33:57.849 +0530	typetext		8800431659	4	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 19:34:04.435 +0530	click	(TEXT:"Continue")	at (705, 346)	5	on_loginintoapplication	MakeMyTrip.script
+2023-12-04 19:34:12.731 +0530	click	(TEXT:"Back")	at (304, 178)	2	on_backtohomepage	MakeMyTrip.script
+2023-12-04 19:34:14.684 +0530	click	makeMyTrip/closeIcon	at (990, 134)	3	on_backtohomepage	MakeMyTrip.script
+2023-12-04 19:34:15.413 +0530	Exception	list_A	Could Not Open Image: list_A	2	on_clickonlistitems	MakeMyTrip.script
+2023-12-04 19:34:15.498 +0530	EndTestCase		(Duration:"37.582", Errors:"1", Exceptions:"1", StartTime:"2023-12-04 19:33:37 +0530", Successes:"0", TestCase:"TC1.script", Warnings:"0")
+2023-12-04 19:34:15.764 +0530	FAILURE	Screen_Error.png	File Not Found: readtext Error - Could Not Open Image: list_A -- Execution Time 0:00:37 TC1.script
