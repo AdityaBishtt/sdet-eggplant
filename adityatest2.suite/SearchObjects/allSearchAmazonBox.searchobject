@@ -1,0 +1,156 @@
+{
+	"originalcapturelocation": [
+		226,
+		89,
+		638,
+		37
+	],
+	"lastmodifieddate": 1701952994.7719998,
+	"createddate": 1701948181.4460001,
+	"name": "allSearchAmazonBox",
+	"lastfounddate": 1701952995.2490001,
+	"ocrcapturestring": "All ’ Search Amazon",
+	"lastfoundlocation": [
+		230,
+		93,
+		630,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[319,18]",
+					"Tolerance": "_60",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/allSearchAmazonBox.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					226,
+					89,
+					638,
+					37
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "All ’ Search Amazon"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[1,1,637,36]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[318,17]",
+					"Tolerance": "_60",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/allSearchAmazonBox.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					226,
+					89,
+					636,
+					35
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "All ’ Search Amazon"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[2,2,636,35]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[317,16]",
+					"Tolerance": "_60",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/allSearchAmazonBox.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					226,
+					89,
+					634,
+					33
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "All ’ Search Amazon"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[3,3,635,34]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[316,15]",
+					"Tolerance": "_60",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/allSearchAmazonBox.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					226,
+					89,
+					632,
+					31
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "All ’ Search Amazon"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[4,4,634,33]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[315,14]",
+					"Tolerance": "_60",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/allSearchAmazonBox.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					226,
+					89,
+					630,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "All ’ Search Amazon"
+			}
+	]
+}

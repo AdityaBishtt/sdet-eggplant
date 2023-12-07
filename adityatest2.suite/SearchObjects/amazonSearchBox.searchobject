@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		19,
+		84,
+		102,
+		47
+	],
+	"lastmodifieddate": 1701950010.8010001,
+	"createddate": 1701947195.4089999,
+	"name": "amazonSearchBox",
+	"lastfounddate": 1701948115.8959999,
+	"ocrcapturestring": "amazon",
+	"lastfoundlocation": [
+		19,
+		84,
+		102,
+		47
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[390,28]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/amazonSearchBox.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					19,
+					84,
+					102,
+					47
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "amazon"
+			}
+	]
+}

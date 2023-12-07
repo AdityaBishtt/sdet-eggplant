@@ -1,0 +1,12 @@
+﻿DoubleClick "amazonLogin/chromeImage"
+Wait 5
+WaitFor 20,Image:"amazonLogin/googleOpen"
+Click "amazonLogin/newTab"
+TypeText "www.amazon.com",return
+Wait 10
+Click "amazonLogin/allSearchAmazonBox.png"
+TypeText "Adidas shoes", return
+wait 20
+Click (Text:"Men's Road Running Shoes", contrastColor:"AutoDetect", ValidWords:"Men's Road Running Shoes", contrast:"On", contrastTolerance:"45")
+
+

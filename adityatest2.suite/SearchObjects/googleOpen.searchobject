@@ -1,0 +1,75 @@
+{
+	"originalcapturelocation": [
+		359,
+		290,
+		350,
+		124
+	],
+	"lastmodifieddate": 1701950013.052,
+	"createddate": 1701944821.6240001,
+	"name": "googleOpen",
+	"lastfounddate": 1701952948.786,
+	"ocrcapturestring": "oogle",
+	"lastfoundlocation": [
+		471,
+		219,
+		350,
+		124
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[175,62]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/googleOpen.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					359,
+					290,
+					350,
+					124
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "oogle"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[175,62]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/googleOpen.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					359,
+					290,
+					350,
+					124
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "oogle"
+			}
+	]
+}

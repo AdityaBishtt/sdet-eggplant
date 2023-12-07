@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		51,
+		31,
+		152,
+		29
+	],
+	"lastmodifieddate": 1701950016.25,
+	"createddate": 1701944663.5869999,
+	"name": "newTab",
+	"lastfounddate": 1701952948.865,
+	"ocrcapturestring": "New Tab",
+	"lastfoundlocation": [
+		18,
+		4,
+		152,
+		29
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[192,51]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "amazonLogin/newTab.png",
+				"connectionname": "192.168.0.154",
+				"type": 1,
+				"connectionserverid": "192.168.0.154",
+				"capturerect": [
+					51,
+					31,
+					152,
+					29
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "New Tab"
+			}
+	]
+}
