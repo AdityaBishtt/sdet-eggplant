@@ -1,0 +1,15 @@
+﻿DoubleClick"nopCommerceImages/chromeLogo.png"
+Waitfor 15, image: "nopCommerceImages/refresh2"
+typetext "https://demo.nopcommerce.com", returnKey
+waitfor 20, image:"nopCommerceImages/nopCommerceLogo"
+Typetext windowsKey, upArrow
+
+set the searchRectangle to [199,271,321,423]
+moveto text:"computers"
+wait 1
+Click text: "Desktops"
+
+
+
+//(199,271,321,423)//
+//204,265,302,307//

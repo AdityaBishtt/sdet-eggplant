@@ -1,29 +1,30 @@
 {
 	"originalcapturelocation": [
-		24,
-		113,
-		28,
-		26
+		76,
+		38,
+		23,
+		36
 	],
-	"lastmodifieddate": 1701950014.4400001,
-	"createddate": 1701943980.125,
-	"name": "chromeImage",
-	"lastfounddate": 1701968644.1719999,
-	"ocrcapturestring": "o",
+	"lastmodifieddate": 1701969054.2539999,
+	"createddate": 1701968789.497,
+	"name": "refreshButton",
+	"lastfounddate": 1701968790.829,
+	"ocrcapturestring": "c",
 	"lastfoundlocation": [
-		24,
-		113,
-		28,
-		26
+		76,
+		38,
+		23,
+		36
 	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[14,13]",
+					"HotSpot": "[11,18]",
 					"Tolerance": "_45",
 					"Discrepancy": "_0",
 					"SearchType": "Tolerant of Background"
@@ -31,18 +32,18 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "amazonLogin/chromeImage.png",
-				"connectionname": "192.168.0.154",
+				"name": "nopCommerceImages/refreshButton.png",
+				"connectionname": "192.168.29.142",
 				"type": 1,
-				"connectionserverid": "192.168.0.154",
+				"connectionserverid": "192.168.29.142",
 				"capturerect": [
-					24,
-					113,
-					28,
-					26
+					76,
+					38,
+					23,
+					36
 				],
 				"connectiontype": "RDP",
-				"capturedocrtext": "o"
+				"capturedocrtext": "c"
 			}
 	]
 }

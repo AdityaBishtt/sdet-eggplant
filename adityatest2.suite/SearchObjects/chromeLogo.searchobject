@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1701968669.4809999,
+	"lastfoundlocation": [
+		22,
+		109,
+		33,
+		42
+	],
+	"originalcapturelocation": [
+		22,
+		109,
+		33,
+		42
+	],
+	"createddate": 1701968642.642,
+	"lastfounddate": 1701971472.885,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[16,21]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "nopCommerceImages/chromeLogo.png",
+				"connectionname": "192.168.29.142",
+				"type": 1,
+				"capturerect": [
+					22,
+					109,
+					33,
+					42
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.29.142"
+			}
+	],
+	"name": "chromeLogo"
+}
