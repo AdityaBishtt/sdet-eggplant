@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		24,
-		113,
-		28,
-		26
+		77,
+		45,
+		20,
+		20
 	],
-	"lastmodifieddate": 1701950014.4400001,
-	"createddate": 1701943980.125,
-	"name": "chromeImage",
-	"lastfounddate": 1702026563.507,
-	"ocrcapturestring": "o",
+	"lastmodifieddate": 1702026866.4089999,
+	"createddate": 1702026866.4089999,
+	"name": "loginPageImages/refreshButton",
+	"lastfounddate": 1702036853.0999999,
+	"ocrcapturestring": "c",
 	"lastfoundlocation": [
-		24,
-		113,
-		28,
-		26
+		77,
+		45,
+		20,
+		20
 	],
 	"testlocationdata": [
 		{
@@ -23,7 +23,7 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[14,13]",
+					"HotSpot": "[9,6]",
 					"Tolerance": "_45",
 					"Discrepancy": "_0",
 					"SearchType": "Tolerant of Background"
@@ -31,18 +31,18 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "amazonLogin/chromeImage.png",
-				"connectionname": "192.168.0.154",
+				"name": "loginPageImages/refreshButton.png",
+				"connectionname": "192.168.0.178",
 				"type": 1,
-				"connectionserverid": "192.168.0.154",
+				"connectionserverid": "192.168.0.178",
 				"capturerect": [
-					24,
-					113,
-					28,
-					26
+					77,
+					45,
+					20,
+					20
 				],
 				"connectiontype": "RDP",
-				"capturedocrtext": "o"
+				"capturedocrtext": "c"
 			}
 	]
 }

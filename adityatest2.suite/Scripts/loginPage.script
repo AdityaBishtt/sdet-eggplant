@@ -1,0 +1,28 @@
+﻿
+To loginpage
+	DoubleClick "loginPageImages/chromeImage"
+	Waitfor 15, image:"loginPageImages/refreshButton"
+	TypeText "www.instagram.com",return
+	WaitFor 10, image:"loginPageImages/instagramLogo"
+	Click imageName:"loginPageImages/phoneNumberUsernameOrEmail.png", waitFor:5
+	TypeText "biiisht"
+	Click image:"loginPageImages/password"
+	TypeText "9213174266"
+	Click "loginPageImages/loginButton"
+	waitfor 10
+	If ImageFound("loginPageImages/saveYourLoginInfo") then
+		Click "loginPageImages/notNow"
+		
+	Else
+		log success
+	End if
+waitfor 10
+	If ImageFound("loginPageImages/homeLogo") then
+		log "success"
+	Else
+		log "failed"
+	End if
+	
+End loginpage
+
+

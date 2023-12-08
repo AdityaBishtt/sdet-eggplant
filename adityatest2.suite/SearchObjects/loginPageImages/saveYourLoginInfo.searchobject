@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		578,
+		316,
+		353,
+		291
+	],
+	"lastmodifieddate": 1702036252.5549998,
+	"createddate": 1702036252.5549998,
+	"name": "loginPageImages/saveYourLoginInfo",
+	"lastfounddate": 1702036647.21,
+	"ocrcapturestring": "@ Save your login info? We can save your login info on this browser so you don't need to enter it again. Save info K\tJ Not now",
+	"lastfoundlocation": [
+		578,
+		316,
+		353,
+		291
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[176,145]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginPageImages/saveYourLoginInfo.png",
+				"connectionname": "192.168.0.178",
+				"type": 1,
+				"connectionserverid": "192.168.0.178",
+				"capturerect": [
+					578,
+					316,
+					353,
+					291
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "@ Save your login info? We can save your login info on this browser so you don't need to enter it again. Save info K\tJ Not now"
+			}
+	]
+}

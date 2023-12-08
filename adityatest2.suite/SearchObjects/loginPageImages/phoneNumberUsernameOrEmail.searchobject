@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		710,
+		325,
+		194,
+		28
+	],
+	"lastmodifieddate": 1702030145.707,
+	"createddate": 1702030145.707,
+	"name": "loginPageImages/phoneNumberUsernameOrEmail",
+	"lastfounddate": 1702036884.6760001,
+	"ocrcapturestring": "Phone number, username, or emai",
+	"lastfoundlocation": [
+		710,
+		325,
+		194,
+		28
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[97,14]",
+					"Tolerance": "_40",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginPageImages/phoneNumberUsernameOrEmail.png",
+				"connectionname": "192.168.0.178",
+				"type": 1,
+				"connectionserverid": "192.168.0.178",
+				"capturerect": [
+					710,
+					325,
+					194,
+					28
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Phone number, username, or emai"
+			}
+	]
+}

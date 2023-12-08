@@ -1,0 +1,98 @@
+{
+	"lastmodifieddate": 1702036883.882,
+	"lastfoundlocation": [
+		742,
+		220,
+		194,
+		58
+	],
+	"originalcapturelocation": [
+		741,
+		219,
+		196,
+		60
+	],
+	"createddate": 1702028450.3049998,
+	"lastfounddate": 1702036865.947,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[69,113]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginPageImages/instagramLogo.png",
+				"connectionname": "192.168.0.178",
+				"type": 1,
+				"capturerect": [
+					741,
+					219,
+					196,
+					60
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.178"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[69,113]",
+					"Tolerance": "_64",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginPageImages/instagramLogo.png",
+				"connectionname": "192.168.0.178",
+				"type": 1,
+				"capturerect": [
+					741,
+					219,
+					196,
+					60
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.178"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_30",
+					"HotSpot": "[69,113]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Adaptive to Image"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginPageImages/instagramLogo.png",
+				"connectionname": "192.168.0.178",
+				"type": 1,
+				"capturerect": [
+					741,
+					219,
+					196,
+					60
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.178"
+			}
+	],
+	"name": "loginPageImages/instagramLogo"
+}

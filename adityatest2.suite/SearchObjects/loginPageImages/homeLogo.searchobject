@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		21,
+		183,
+		100,
+		43
+	],
+	"lastmodifieddate": 1702033703.6199999,
+	"createddate": 1702033703.6199999,
+	"name": "loginPageImages/homeLogo",
+	"lastfounddate": 1702036693.744,
+	"ocrcapturestring": "A Home",
+	"lastfoundlocation": [
+		21,
+		183,
+		100,
+		43
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[50,21]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginPageImages/homeLogo.png",
+				"connectionname": "192.168.0.178",
+				"type": 1,
+				"connectionserverid": "192.168.0.178",
+				"capturerect": [
+					21,
+					183,
+					100,
+					43
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "A Home"
+			}
+	]
+}

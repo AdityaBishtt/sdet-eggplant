@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		703,
+		413,
+		228,
+		33
+	],
+	"lastmodifieddate": 1702031030.6859999,
+	"createddate": 1702031030.6859999,
+	"name": "loginPageImages/loginButton",
+	"lastfounddate": 1702036888.4990001,
+	"ocrcapturestring": "Log in",
+	"lastfoundlocation": [
+		703,
+		413,
+		228,
+		33
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[114,16]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginPageImages/loginButton.png",
+				"connectionname": "192.168.0.178",
+				"type": 1,
+				"connectionserverid": "192.168.0.178",
+				"capturerect": [
+					703,
+					413,
+					228,
+					33
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Log in"
+			}
+	]
+}
