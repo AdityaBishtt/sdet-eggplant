@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702296867.253,
+	"ocrcapturestring": "Email",
+	"originalcapturelocation": [
+		330,
+		400,
+		228,
+		63
+	],
+	"createddate": 1702296867.253,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_62",
+					"HotSpot": "[48,28]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginUdemy/emailTextField.png",
+				"connectionname": "192.168.0.63",
+				"type": 1,
+				"connectionserverid": "192.168.0.63",
+				"capturerect": [
+					330,
+					400,
+					228,
+					63
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Email"
+			}
+	],
+	"name": "loginUdemy/emailTextField"
+}

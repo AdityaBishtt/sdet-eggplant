@@ -1,0 +1,6 @@
+﻿to launchWebsite
+	DoubleClick "launchWebsite/chromeIcone"
+	WaitFor 10, "launchWebsite/refreshIcone.png"
+	TypeText "https://demo.nopcommerce.com/", return
+end launchWebsite
+

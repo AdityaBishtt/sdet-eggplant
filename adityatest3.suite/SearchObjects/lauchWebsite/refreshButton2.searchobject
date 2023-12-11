@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702286946.74,
+	"ocrcapturestring": "c",
+	"originalcapturelocation": [
+		70,
+		46,
+		32,
+		19
+	],
+	"createddate": 1702286946.74,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_45",
+					"HotSpot": "[156,9]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "lauchWebsite/refreshButton2.png",
+				"connectionname": "192.168.0.63",
+				"type": 1,
+				"connectionserverid": "192.168.0.63",
+				"capturerect": [
+					70,
+					46,
+					32,
+					19
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "c"
+			}
+	],
+	"name": "lauchWebsite/refreshButton2"
+}

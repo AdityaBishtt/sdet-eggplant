@@ -1,0 +1,41 @@
+{
+	"lastmodifieddate": 1702296739.6160002,
+	"ocrcapturestring": "Log in",
+	"originalcapturelocation": [
+		767,
+		93,
+		80,
+		40
+	],
+	"createddate": 1702296739.6160002,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Tolerance": "_55",
+					"HotSpot": "[41,21]",
+					"Scale": "    1",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginUdemy/loginButton.png",
+				"connectionname": "192.168.0.63",
+				"type": 1,
+				"connectionserverid": "192.168.0.63",
+				"capturerect": [
+					767,
+					93,
+					80,
+					40
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Log in"
+			}
+	],
+	"name": "loginUdemy/loginButton"
+}

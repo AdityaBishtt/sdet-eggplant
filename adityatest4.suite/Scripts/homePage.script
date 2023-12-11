@@ -1,0 +1,22 @@
+﻿If ImageFound("homePage/nopCommerceLogo.png") then
+	log "success"
+Else
+	log "wrong page"
+End if
+
+
+set the SearchRectangle to [190,266,342,417]
+MoveTo text:"Electronics", waitFor:5
+Click text: "Cell Phone"
+
+
+(*Click "homePage/electronicsTab"*)
+(*WaitFor 5*)(716,368,780,432) 
+(*set the SearchRectangle to [716,368,780,432]*)
+
+set the  SearchRectangle to [340,513,497,662]
+Click "homePage/downArrow_cellPhone_electronics"
+(*WaitFor 2*)
+click text:"Price: Low to High"
+
+
