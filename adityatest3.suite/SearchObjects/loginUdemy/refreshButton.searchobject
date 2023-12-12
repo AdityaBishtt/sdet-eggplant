@@ -5,20 +5,21 @@
 		20,
 		20
 	],
-	"lastmodifieddate": 1702298304.427,
+	"lastmodifieddate": 1702376723.8340001,
 	"createddate": 1702295286.947,
 	"name": "loginUdemy/refreshButton",
-	"lastfounddate": 1702298297.3280001,
+	"lastfounddate": 1702373347.7539999,
 	"ocrcapturestring": "c",
 	"lastfoundlocation": [
-		79,
-		47,
-		16,
-		16
+		80,
+		48,
+		14,
+		14
 	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
@@ -46,6 +47,7 @@
 			},
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
@@ -73,6 +75,7 @@
 			},
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[1,1,19,19]",
 					"Rotate": 0,
@@ -127,6 +130,7 @@
 			},
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[1,1,19,19]",
 					"Rotate": 0,
@@ -154,6 +158,7 @@
 			},
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[2,2,18,18]",
 					"Rotate": 0,
@@ -181,12 +186,13 @@
 			},
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[3,3,17,17]",
 					"Rotate": 0,
-					"Tolerance": "_30",
-					"HotSpot": "[156,6]",
 					"Scale": "    1",
+					"HotSpot": "[156,6]",
+					"Tolerance": "_30",
 					"Discrepancy": "_0",
 					"SearchType": "Adaptive to Image"
 				},

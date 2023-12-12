@@ -1,0 +1,75 @@
+{
+	"originalcapturelocation": [
+		10,
+		4,
+		86,
+		22
+	],
+	"lastmodifieddate": 1702373559.1820002,
+	"createddate": 1702373509.872,
+	"name": "loginUdemy/NewTab_1",
+	"lastfounddate": 1702373623.1599998,
+	"ocrcapturestring": "New Tab",
+	"lastfoundlocation": [
+		11,
+		5,
+		84,
+		20
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[274,53]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginUdemy/NewTab_1.png",
+				"connectionname": "192.168.0.138",
+				"type": 1,
+				"connectionserverid": "192.168.0.138",
+				"capturerect": [
+					10,
+					4,
+					86,
+					22
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "New Tab"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[1,1,85,21]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[273,52]",
+					"Tolerance": "_57",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginUdemy/NewTab_1.png",
+				"connectionname": "192.168.0.138",
+				"type": 1,
+				"connectionserverid": "192.168.0.138",
+				"capturerect": [
+					10,
+					4,
+					84,
+					20
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "New Tab"
+			}
+	]
+}

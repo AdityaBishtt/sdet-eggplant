@@ -1,0 +1,12 @@
+﻿to loginPage
+	DoubleClick "loginUdemy/chromeIcon"
+	WaitFor 10, image:"loginUdemy/refershIconImage"
+	Click "loginUdemy/refershIconImage"
+	TypeText  "Udemy.com", return
+	WaitFor 15, "loginUdemy/loginIcon"
+	Click "loginUdemy/loginIcon"
+	WaitFor 10, "loginUdemy/passwordField.png"
+	Click "loginUdemy/passwordField"
+	TypeText "aditya9599"
+	Click "loginUdemy/loginButton1"
+end loginPage

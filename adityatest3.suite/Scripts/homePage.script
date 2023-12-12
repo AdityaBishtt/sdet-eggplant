@@ -1,0 +1,11 @@
+﻿to savePassword
+	If ImageFound("homePage/savePasswordModal") then
+		Click "homePage/savePasswordModalCloseBUtton"
+		
+	Else
+		log "success"
+	End if
+end savePassword
+
+
+

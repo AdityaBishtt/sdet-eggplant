@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		576,
+		523,
+		143,
+		32
+	],
+	"lastmodifieddate": 1702383946.306,
+	"createddate": 1702383720.954,
+	"name": "goToMyLearning",
+	"lastfounddate": 1702383823.6269999,
+	"ocrcapturestring": "Go to My learning",
+	"lastfoundlocation": [
+		576,
+		523,
+		143,
+		32
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[71,16]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "myLearningPage/goToMyLearning.png",
+				"connectionname": "192.168.0.138",
+				"type": 1,
+				"connectionserverid": "192.168.0.138",
+				"capturerect": [
+					576,
+					523,
+					143,
+					32
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Go to My learning"
+			}
+	]
+}
