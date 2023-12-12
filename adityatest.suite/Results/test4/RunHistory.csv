@@ -33,3 +33,9 @@
 2023-12-06 17:42:12.064 +0530,"Aborted",0:01:20,1,0,1,"20231206_174212.064/LogFile.txt","","",0
 2023-12-06 17:55:09.701 +0530,"Failure",0:00:05,1,0,0,"20231206_175509.701/LogFile.txt","","STUnknownMessage -- ERROR: 'imagefound' was called as a Command, but is only available as a Function",0
 2023-12-06 18:10:06.885 +0530,"Failure",0:00:34,1,0,1,"20231206_181006.885/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""ViewAccountButton""",0
+2023-12-07 13:17:20.320 +0530,"Failure",0:00:02,1,0,1,"20231207_131720.320/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2023-12-07 13:18:07.617 +0530,"Failure",0:00:01,1,0,1,"20231207_131807.617/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2023-12-07 14:30:17.520 +0530,"Failure",0:00:00,1,0,1,"20231207_143017.520/LogFile.txt","","No Remote Connection -- doubleclick Error - Remote Connection Unavailable",0
+2023-12-07 14:38:16.959 +0530,"Failure",0:00:39,1,0,1,"20231207_143816.959/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""se""",0
+2023-12-07 14:39:01.888 +0530,"Aborted",0:00:01,1,0,0,"20231207_143901.888/LogFile.txt","","",0
+2023-12-07 14:52:12.488 +0530,"Failure",0:00:25,1,0,0,"20231207_145212.488/LogFile.txt","","Image Not Found -- set Error - Unable To Find Image: searchBox_A",0

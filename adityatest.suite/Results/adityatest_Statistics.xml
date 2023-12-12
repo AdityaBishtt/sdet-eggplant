@@ -10,10 +10,10 @@
  </script>
  <script name="test4">
   <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>22</NumberOfRuns>
-  <NumberOfFails>17</NumberOfFails>
+  <NumberOfRuns>27</NumberOfRuns>
+  <NumberOfFails>22</NumberOfFails>
   <FirstRun>2023-12-06 15:42:18 +0530</FirstRun>
-  <LastRun>2023-12-06 18:10:06 +0530</LastRun>
+  <LastRun>2023-12-07 14:52:12 +0530</LastRun>
   <TotalTimeOnSuccess>111.754000</TotalTimeOnSuccess>
  </script>
  <script name="test1">

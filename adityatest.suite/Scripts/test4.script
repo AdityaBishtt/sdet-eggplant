@@ -1,9 +1,10 @@
 ﻿DoubleClick "c"
-Click (Image:"se", WaitFor:16)
+set the SearchRectangle to [150,65,786,96]
+Click "SearchRectangle"
+Click {Image:"searchGoogleortypeaURL_2", WaitFor:16}
 TypeText "oracle.com",return, WaitFor:20
 Click imageName:"ViewAccountButton", waitFor: 8
 Click imageName:"CreateanAccounttest4", waitFor: 8
-Click "EmailAddresstest4"
-TypeText"bishtaditya73@gmail.com"
-Click "ViewAccountButton"
+
+"
 

@@ -408,4 +408,76 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;ViewAccountButton&quot;</ErrorMessage>
  </run>
+ <run>
+  <RunDate>2023-12-07 13:17:20.320 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>2.005000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231207_131720.320/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-07 13:18:07.617 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>1.697000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231207_131807.617/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-07 14:30:17.520 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.263000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231207_143017.520/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-07 14:38:16.959 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>39.149000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231207_143816.959/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- click Error - No Image Found On Screen: &quot;se&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-07 14:39:01.888 +0530</RunDate>
+  <Status>Aborted</Status>
+  <Duration>1.842000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231207_143901.888/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2023-12-07 14:52:12.488 +0530</RunDate>
+  <Status>Failure</Status>
+  <Duration>25.131000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20231207_145212.488/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- set Error - Unable To Find Image: searchBox_A</ErrorMessage>
+ </run>
 </runHistory>

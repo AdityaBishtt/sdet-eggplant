@@ -1,29 +1,38 @@
 {
-	"lastmodifieddate": 1702286278.1719999,
-	"ocrcapturestring": "p",
 	"originalcapturelocation": [
 		23,
 		112,
 		32,
 		37
 	],
+	"lastmodifieddate": 1702287172.1399999,
 	"createddate": 1702286278.1719999,
+	"name": "ChromeImage",
+	"lastfounddate": 1702287052.7719998,
+	"ocrcapturestring": "p",
+	"lastfoundlocation": [
+		23,
+		112,
+		32,
+		37
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
+				"deleted": true,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_45",
-					"HotSpot": "[16,18]",
 					"Scale": "    1",
+					"HotSpot": "[16,18]",
+					"Tolerance": "_45",
 					"Discrepancy": "_0",
 					"SearchType": "Tolerant of Background"
 				},
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "ChromeImage.png",
+				"name": "lauchWebsite/ChromeImage.png",
 				"connectionname": "192.168.0.63",
 				"type": 1,
 				"connectionserverid": "192.168.0.63",
@@ -36,6 +45,5 @@
 				"connectiontype": "RDP",
 				"capturedocrtext": "p"
 			}
-	],
-	"name": "ChromeImage"
+	]
 }

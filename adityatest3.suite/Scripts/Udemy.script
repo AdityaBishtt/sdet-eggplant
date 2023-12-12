@@ -1,0 +1,18 @@
+﻿DoubleClick "loginUdemy/chromeIcon"
+WaitFor 10, image:"loginUdemy/refreshButton.png"
+TypeText  "Udemy.com", return
+WaitFor 10
+Click "loginUdemy/loginButton"
+Click "loginUdemy/emailTextField"
+TypeText "bishtaditya73@gmail.com"
+Click "loginUdemy/passwordLogin"
+TypeText "aditya9599"
+Click "loginUdemy/log_inButton"
+If ImageFound("loginUdemy/savePasswordModal") then
+	Click "loginUdemy/savePasswordModalCloseBUtton"
+	
+Else
+	log "success"
+End if
+s
+

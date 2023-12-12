@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		138,
-		69,
-		203,
-		18
+		149,
+		71,
+		315,
+		22
 	],
-	"lastmodifieddate": 1701776645.9520001,
-	"createddate": 1701776645.9520001,
-	"name": "QSearchGoogleortypeaURL",
-	"lastfounddate": 1701941390.928,
+	"lastmodifieddate": 1701941387.543,
+	"createddate": 1701941387.543,
+	"name": "searchGoogleortypeaURL_2",
+	"lastfounddate": 1701941639.527,
 	"ocrcapturestring": "Q. Search Google or type a URL",
 	"lastfoundlocation": [
-		150,
-		74,
-		203,
-		18
+		303,
+		18,
+		315,
+		22
 	],
 	"testlocationdata": [
 		{
@@ -23,7 +23,7 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[62,6]",
+					"HotSpot": "[157,11]",
 					"Tolerance": "_42",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
@@ -31,15 +31,15 @@
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "QSearchGoogleortypeaURL.png",
-				"connectionname": "192.168.0.93",
+				"name": "searchGoogleortypeaURL_2.png",
+				"connectionname": "192.168.0.154",
 				"type": 1,
-				"connectionserverid": "192.168.0.93",
+				"connectionserverid": "192.168.0.154",
 				"capturerect": [
-					138,
-					69,
-					203,
-					18
+					149,
+					71,
+					315,
+					22
 				],
 				"connectiontype": "RDP",
 				"capturedocrtext": "Q. Search Google or type a URL"

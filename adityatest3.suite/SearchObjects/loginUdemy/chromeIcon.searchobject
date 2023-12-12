@@ -1,22 +1,30 @@
 {
-	"lastmodifieddate": 1702295224.4960001,
-	"ocrcapturestring": "p",
 	"originalcapturelocation": [
 		21,
 		111,
 		35,
 		41
 	],
+	"lastmodifieddate": 1702295381.5599999,
 	"createddate": 1702295224.4960001,
+	"name": "loginUdemy/chromeIcon",
+	"lastfounddate": 1702299668.026,
+	"ocrcapturestring": "p",
+	"lastfoundlocation": [
+		21,
+		111,
+		35,
+		41
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_45",
-					"HotSpot": "[17,20]",
 					"Scale": "    1",
+					"HotSpot": "[17,20]",
+					"Tolerance": "_45",
 					"Discrepancy": "_0",
 					"SearchType": "Tolerant of Background"
 				},
@@ -35,7 +43,33 @@
 				],
 				"connectiontype": "RDP",
 				"capturedocrtext": "p"
+			},
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[17,20]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "loginUdemy/chromeIcon.png",
+				"connectionname": "192.168.0.63",
+				"type": 1,
+				"connectionserverid": "192.168.0.63",
+				"capturerect": [
+					21,
+					111,
+					35,
+					41
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "p"
 			}
-	],
-	"name": "loginUdemy/chromeIcon"
+	]
 }

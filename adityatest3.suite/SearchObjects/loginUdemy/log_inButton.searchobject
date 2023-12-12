@@ -1,22 +1,30 @@
 {
-	"lastmodifieddate": 1702297408.523,
-	"ocrcapturestring": "Log in",
 	"originalcapturelocation": [
 		327,
 		549,
 		354,
 		46
 	],
+	"lastmodifieddate": 1702297408.523,
 	"createddate": 1702297408.523,
+	"name": "loginUdemy/log_inButton",
+	"lastfounddate": 1702297408.7779999,
+	"ocrcapturestring": "Log in",
+	"lastfoundlocation": [
+		327,
+		549,
+		354,
+		46
+	],
 	"testlocationdata": [
 		{
 				"connectionportnum": 3389,
 				"properties": {
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
-					"Tolerance": "_58",
-					"HotSpot": "[177,23]",
 					"Scale": "    1",
+					"HotSpot": "[177,23]",
+					"Tolerance": "_58",
 					"Discrepancy": "_0",
 					"SearchType": "Smoothed for Text"
 				},
@@ -36,6 +44,5 @@
 				"connectiontype": "RDP",
 				"capturedocrtext": "Log in"
 			}
-	],
-	"name": "loginUdemy/log_inButton"
+	]
 }
