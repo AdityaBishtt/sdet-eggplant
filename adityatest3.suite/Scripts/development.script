@@ -1,0 +1,18 @@
+﻿Repeat until ImageFound("development/allDevelopmentCourses")
+	log success
+	
+End repeat
+
+(*Click "development/sortbyMostPopular"*)
+Repeat until ImageFound(imageName:"development/allDevelopmentCourses.png", waitFor:10)
+	TypeText PageDown
+	If ImageFound(imageName:"development/allDevelopmentCourses.png", waitFor:10) then
+		log success
+		
+		Exit repeat
+	End if
+	
+End repeat
+Click "development/backIcone"
+Click "development/josePortilia"
+

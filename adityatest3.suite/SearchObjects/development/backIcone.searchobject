@@ -1,20 +1,20 @@
 {
 	"originalcapturelocation": [
-		469,
-		424,
-		64,
-		22
+		11,
+		51,
+		22,
+		26
 	],
-	"lastmodifieddate": 1702374425.207,
-	"createddate": 1702374425.207,
-	"name": "loginUdemy/loginButton1",
-	"lastfounddate": 1702460636.7410002,
-	"ocrcapturestring": "Log in",
+	"lastmodifieddate": 1702465539.5369999,
+	"createddate": 1702465539.5369999,
+	"name": "development/backIcone",
+	"lastfounddate": 1702465556.3559999,
+	"ocrcapturestring": "<r",
 	"lastfoundlocation": [
-		469,
-		434,
-		64,
-		22
+		11,
+		51,
+		22,
+		26
 	],
 	"testlocationdata": [
 		{
@@ -23,26 +23,26 @@
 					"CropRectangle": "[0,0,0,0]",
 					"Rotate": 0,
 					"Scale": "    1",
-					"HotSpot": "[32,11]",
-					"Tolerance": "_58",
+					"HotSpot": "[11,13]",
+					"Tolerance": "_45",
 					"Discrepancy": "_0",
-					"SearchType": "Smoothed for Text"
+					"SearchType": "Tolerant of Background"
 				},
 				"sutinfo": {
 					"type": "Unknown RDP"
 				},
-				"name": "loginUdemy/loginButton1.png",
+				"name": "development/backIcone.png",
 				"connectionname": "192.168.0.138",
 				"type": 1,
 				"connectionserverid": "192.168.0.138",
 				"capturerect": [
-					469,
-					424,
-					64,
-					22
+					11,
+					51,
+					22,
+					26
 				],
 				"connectiontype": "RDP",
-				"capturedocrtext": "Log in"
+				"capturedocrtext": "<r"
 			}
 	]
 }
