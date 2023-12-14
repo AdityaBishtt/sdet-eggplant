@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		20,
+		344,
+		196,
+		115
+	],
+	"lastmodifieddate": 1702553792.471,
+	"createddate": 1702553792.471,
+	"name": "purchaseCourse/theComplete2023WebDevelopmentB",
+	"lastfounddate": 1702555848.734,
+	"ocrcapturestring": "The Complete 2023 Web Development Bootcamp Dr. Angela Yu 4.7 * * * * * (342,966) T449 ^499",
+	"lastfoundlocation": [
+		20,
+		524,
+		196,
+		115
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[98,57]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "purchaseCourse/theComplete2023WebDevelopmentB.png",
+				"connectionname": "192.168.0.151",
+				"type": 1,
+				"connectionserverid": "192.168.0.151",
+				"capturerect": [
+					20,
+					344,
+					196,
+					115
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "The Complete 2023 Web Development Bootcamp Dr. Angela Yu 4.7 * * * * * (342,966) T449 ^499"
+			}
+	]
+}

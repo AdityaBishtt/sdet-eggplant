@@ -1,0 +1,21 @@
+﻿Repeat until ImageFound(imageName:"purchaseCourse/theComplete2023WebDevelopmentB", waitFor:10)
+	
+	TypeText pageDown
+	If ImageFound("purchaseCourse/theComplete2023WebDevelopmentB") then
+		Click "purchaseCourse/theComplete2023WebDevelopmentB"
+		
+	Else
+		
+		log success
+	End if
+	Click "purchaseCourse/checkoutButton"
+	
+	
+End repeat
+
+TypeText pageDown
+Click "purchaseCourse/addToCart"
+WaitFor 10
+Click (Image:"purchaseCourse/goToCart", WaitFor:8.1)
+
+

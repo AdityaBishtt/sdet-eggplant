@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		765,
+		401,
+		90,
+		34
+	],
+	"lastmodifieddate": 1702556417.6389999,
+	"createddate": 1702556417.6389999,
+	"name": "purchaseCourse/checkoutButton",
+	"lastfounddate": 1702556419.355,
+	"ocrcapturestring": "Checkout",
+	"lastfoundlocation": [
+		765,
+		401,
+		90,
+		34
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[45,17]",
+					"Tolerance": "_58",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "purchaseCourse/checkoutButton.png",
+				"connectionname": "192.168.0.151",
+				"type": 1,
+				"connectionserverid": "192.168.0.151",
+				"capturerect": [
+					765,
+					401,
+					90,
+					34
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Checkout"
+			}
+	]
+}

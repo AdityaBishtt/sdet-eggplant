@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		686,
+		237,
+		89,
+		32
+	],
+	"lastmodifieddate": 1702556103.349,
+	"createddate": 1702556103.349,
+	"name": "purchaseCourse/goToCart",
+	"lastfounddate": 1702556104.414,
+	"ocrcapturestring": "Go to cart",
+	"lastfoundlocation": [
+		686,
+		237,
+		89,
+		32
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[44,16]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "purchaseCourse/goToCart.png",
+				"connectionname": "192.168.0.151",
+				"type": 1,
+				"connectionserverid": "192.168.0.151",
+				"capturerect": [
+					686,
+					237,
+					89,
+					32
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Go to cart"
+			}
+	]
+}

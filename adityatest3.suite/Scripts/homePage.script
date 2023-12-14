@@ -7,5 +7,6 @@
 	End if
 end savePassword
 
-
-
+to developmentPage
+	Click "homePage/developmentHomePage"
+end developmentPage
