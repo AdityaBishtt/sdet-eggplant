@@ -1,0 +1,30 @@
+﻿Click "businessPage/businessTab"
+waitfor 10
+set SearchRectangle to [141,166,889,206]
+
+If ImageFound(text:"Operations") then
+	Click text:"Operations"
+Else
+	Click text:"Sales"
+End if
+waitfor 10
+Repeat until ImageFound("businessPage/rayHarkinsTheManufacturingAcad")
+	TypeText  pageDown
+End repeat
+waitfor 10
+Click "businessPage/rayHarkinsTheManufacturingAcad"
+waitfor 10
+Repeat until imageFound("businessPage/nextPageButton")
+	TypeText pageDown
+	If ImageFound("businessPage/nextPageButton") then Click "businessPage/nextPageButton"
+	
+End repeat
+
+to moveToHomePage
+	Click "businessPage/udemyLogo"
+end moveToHomePage
+
+
+
+
+

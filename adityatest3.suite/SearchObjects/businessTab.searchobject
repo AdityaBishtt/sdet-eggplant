@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		139,
+		169,
+		71,
+		30
+	],
+	"lastmodifieddate": 1702629293.5869999,
+	"createddate": 1702625826.493,
+	"name": "businessTab",
+	"lastfounddate": 1702625829.6129999,
+	"ocrcapturestring": "Business",
+	"lastfoundlocation": [
+		139,
+		169,
+		71,
+		30
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[35,15]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "businessPage/businessTab.png",
+				"connectionname": "192.168.0.197",
+				"type": 1,
+				"connectionserverid": "192.168.0.197",
+				"capturerect": [
+					139,
+					169,
+					71,
+					30
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Business"
+			}
+	]
+}

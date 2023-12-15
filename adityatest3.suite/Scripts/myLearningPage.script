@@ -1,5 +1,5 @@
 ﻿to mylearning
-set serachrectangle to  [575,147,788,186]
+	set serachrectangle to  [575,147,788,186]
 	Moveto text:"My learning"
 	Click "myLearningPage/goToMyLearning"
 end mylearning

@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		434,
+		230,
+		209,
+		44
+	],
+	"lastmodifieddate": 1702629268.0739999,
+	"createddate": 1702629268.0739999,
+	"name": "businessPage/rayHarkinsTheManufacturingAcad",
+	"lastfounddate": 1702644294.7130001,
+	"ocrcapturestring": "Ray Harkins, The Manufacturing Academy",
+	"lastfoundlocation": [
+		434,
+		310,
+		209,
+		44
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[104,22]",
+					"Tolerance": "_62",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "businessPage/rayHarkinsTheManufacturingAcad.png",
+				"connectionname": "192.168.0.197",
+				"type": 1,
+				"connectionserverid": "192.168.0.197",
+				"capturerect": [
+					434,
+					230,
+					209,
+					44
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "Ray Harkins, The Manufacturing Academy"
+			}
+	]
+}

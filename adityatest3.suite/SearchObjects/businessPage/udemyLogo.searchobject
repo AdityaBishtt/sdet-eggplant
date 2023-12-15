@@ -1,0 +1,48 @@
+{
+	"originalcapturelocation": [
+		15,
+		103,
+		108,
+		49
+	],
+	"lastmodifieddate": 1702640724.395,
+	"createddate": 1702640724.395,
+	"name": "businessPage/udemyLogo",
+	"lastfounddate": 1702640799.714,
+	"ocrcapturestring": "udemy",
+	"lastfoundlocation": [
+		15,
+		103,
+		108,
+		49
+	],
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[54,24]",
+					"Tolerance": "_73",
+					"Discrepancy": "_0",
+					"SearchType": "Smoothed for Text"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "businessPage/udemyLogo.png",
+				"connectionname": "192.168.0.197",
+				"type": 1,
+				"connectionserverid": "192.168.0.197",
+				"capturerect": [
+					15,
+					103,
+					108,
+					49
+				],
+				"connectiontype": "RDP",
+				"capturedocrtext": "udemy"
+			}
+	]
+}

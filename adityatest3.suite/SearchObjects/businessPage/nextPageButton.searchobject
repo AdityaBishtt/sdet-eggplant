@@ -1,0 +1,46 @@
+{
+	"lastmodifieddate": 1702638759.161,
+	"lastfoundlocation": [
+		474,
+		443,
+		52,
+		54
+	],
+	"originalcapturelocation": [
+		474,
+		432,
+		52,
+		54
+	],
+	"createddate": 1702638759.161,
+	"lastfounddate": 1702639199.803,
+	"testlocationdata": [
+		{
+				"connectionportnum": 3389,
+				"properties": {
+					"CropRectangle": "[0,0,0,0]",
+					"Rotate": 0,
+					"Scale": "    1",
+					"HotSpot": "[26,27]",
+					"Tolerance": "_45",
+					"Discrepancy": "_0",
+					"SearchType": "Tolerant of Background"
+				},
+				"sutinfo": {
+					"type": "Unknown RDP"
+				},
+				"name": "businessPage/nextPageButton.png",
+				"connectionname": "192.168.0.197",
+				"type": 1,
+				"capturerect": [
+					474,
+					432,
+					52,
+					54
+				],
+				"connectiontype": "RDP",
+				"connectionserverid": "192.168.0.197"
+			}
+	],
+	"name": "businessPage/nextPageButton"
+}
